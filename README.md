@@ -19,5 +19,4 @@ Right now my go to programming languages are: Python, JavaScript and Go. I'm a f
 
 #### Outside of GitHub...
 
-I enjoy: reading, gaming, cars, memes and investing.
-I like art, drawing and other creative endeavours too.
+I enjoy reading, PC gaming, cars, drawing and all other kinds of creative endeavours.
