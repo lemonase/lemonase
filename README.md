@@ -1,4 +1,4 @@
-## Hey GitHubz 🌍👋
+## Hello 🌍👋
 
 I'm just a guy who enjoys using, creating and contributing to Free and Open Source Software whenever possible (for practical and philosophical purposes).
 
