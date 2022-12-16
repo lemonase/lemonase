@@ -11,6 +11,6 @@
 - [Tweaking dotfiles](https://github.com/lemonase/dotfiles) 📁
 
 
-#### Outside of GitHub...
+#### Outside of GitHub, find me...
 
 - [My Blog](https://jamesdixon.dev/) ✏️
