@@ -7,7 +7,7 @@
 - Fixing things 🩹
 - Running tests ✅
 - Updating documentation 📝
-- Stargazing 🌟
+- [Stargazing](https://github.com/lemonase?tab=stars) 🌟
 - [Tweaking dotfiles](https://github.com/lemonase/dotfiles) 📁
 
 
