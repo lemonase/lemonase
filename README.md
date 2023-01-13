@@ -13,18 +13,19 @@
 
 ## Outside of GitHub, find me...
 
-- [My Blog](https://jamesdixon.dev/) ✏️
+- [My Blog](https://madjam.dev/) ✏️
+- [OMG.lol](https://jam.omg.lol/)
 
 ## Your Daily `fortune | cowsay`
 
 ```txt
 Daily duck say for 01/13/23
- ______________________________________
-/ Go not to the elves for counsel, for \
-| they will say both yes and no.       |
-|                                      |
-\ -- J.R.R. Tolkien                    /
- --------------------------------------
+ ________________________________________
+/ Alas, how love can trifle with itself! \
+|                                        |
+| -- William Shakespeare, "The Two       |
+\ Gentlemen of Verona"                   /
+ ----------------------------------------
  \
   \
    \ >()_
