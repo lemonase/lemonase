@@ -17,12 +17,3 @@
 
 ## Your Daily `fortune | cowsay`
 
-Daily ducksay for 01/13/23
- _________________________________________
-/ It may or may not be worthwhile, but it \
-\ still has to be done.                   /
- -----------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
