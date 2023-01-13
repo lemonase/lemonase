@@ -17,13 +17,16 @@
 
 ## Your Daily `fortune | cowsay`
 
+```txt
 Daily duck say for 01/13/23
- _______________________________________
-/ Q: Why did the programmer call his    \
-| mother long distance? A: Because that |
-\ was her name.                         /
- ---------------------------------------
+ ______________________________________
+/ Go not to the elves for counsel, for \
+| they will say both yes and no.       |
+|                                      |
+\ -- J.R.R. Tolkien                    /
+ --------------------------------------
  \
   \
    \ >()_
       (__)__ _
+```
