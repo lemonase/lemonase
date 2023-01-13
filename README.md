@@ -21,10 +21,7 @@
 ```txt
 Daily duck say for 01/13/23
  __________________________________
-/ Wagner's music is better than it \
-| sounds.                          |
-|                                  |
-\ -- Mark Twain                    /
+< Make a wish, it might come true. >
  ----------------------------------
  \
   \
