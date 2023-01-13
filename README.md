@@ -17,11 +17,12 @@
 
 ## Your Daily `fortune | cowsay`
 
-Daily ducksay for 01/13/23
- _________________________________________
-/ It may or may not be worthwhile, but it \
-\ still has to be done.                   /
- -----------------------------------------
+Daily duck say for 01/13/23
+ _______________________________________
+/ Q: Why did the programmer call his    \
+| mother long distance? A: Because that |
+\ was her name.                         /
+ ---------------------------------------
  \
   \
    \ >()_
