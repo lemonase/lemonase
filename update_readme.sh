@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 
-# This is a script that injects a cowsay after README_template.md file
-# Run this from a cron job to update daily
+# This is a fairly basic script that injects a cowsay after README_template.md file
 
-# move into repo directory
-cd "$HOME/Code/lemonase"
+# Run this from a cron job to update daily:
+# Ex: run `crontab -e` and add the path to this script to run everyday at 5 min past midnight
+# 5 12 * * * '/path/to/repo/update_readme.sh'
 
-# append fortune | cowsay command to README_template.md and out the actual README.md file
-TMPL="duck"
-cat README_template.md <(echo '```txt') <(echo "Daily ${TMPL} say for $(date +'%D')") <(fortune | cowsay -f $TMPL) <(echo '```') > README.md
+REPO_DIR="$HOME/Code/lemonase"
+COWSAY_TMPL="duck"
 
-# add README.md, commit with message and push to GitHub
+cd "$REPO_DIR" || exit
+cat README_template.md <(echo '```txt') <(echo "Daily ${COWSAY_TMPL} say for $(date +'%D')") <(fortune | cowsay -f ${COWSAY_TMPL}) <(echo '```') > README.md
 git add README.md && git commit -m "Daily cowsay for $(date +"%Y-%m-%d")" && git push
 
