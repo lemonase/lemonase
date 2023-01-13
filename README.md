@@ -20,12 +20,12 @@
 
 ```txt
 Daily duck say for 01/13/23
- ________________________________________
-/ Alas, how love can trifle with itself! \
-|                                        |
-| -- William Shakespeare, "The Two       |
-\ Gentlemen of Verona"                   /
- ----------------------------------------
+ __________________________________
+/ Wagner's music is better than it \
+| sounds.                          |
+|                                  |
+\ -- Mark Twain                    /
+ ----------------------------------
  \
   \
    \ >()_
