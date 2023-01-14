@@ -20,13 +20,4 @@
 
 ```txt
 Daily duck say for 01/14/23
- ________________________________________
-/ If you learn one useless thing every   \
-| day, in a single year you'll learn 365 |
-\ useless things.                        /
- ----------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
 ```
