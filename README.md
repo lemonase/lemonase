@@ -19,12 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily duck say for 01/13/23
- __________________________________
-< Make a wish, it might come true. >
- ----------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily duck say for 01/14/23
 ```
