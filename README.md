@@ -21,10 +21,9 @@
 ```txt
 Daily duck say for 01/14/23
  ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
  ----------------------------------------
  \
   \
