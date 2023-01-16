@@ -20,4 +20,12 @@
 
 ```txt
 Daily duck say for 01/16/23
+ _________________________________________
+/ Today is the tomorrow you worried about \
+\ yesterday.                              /
+ -----------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
