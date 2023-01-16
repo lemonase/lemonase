@@ -23,7 +23,20 @@ else
   COWSAY_TMPL="$2"
 fi
 
-cd "$REPO_DIR" || exit
-cat README_template.md <(echo '```txt') <(echo "Daily ${COWSAY_TMPL} say for $(date +'%D')") <(fortune | cowsay -f ${COWSAY_TMPL}) <(echo '```') > README.md
-git add README.md && git commit -m "Daily cowsay for $(date +"%Y-%m-%d")" && git push
+if ! [ -x "$(command -v cowsay)" ]; then
+  echo "Please install cowsay"
+  exit 1
+fi
 
+if ! [ -x "$(command -v fortune)" ]; then
+  echo "Please install fortune"
+  exit 1
+fi
+
+write_readme() {
+  cd "$REPO_DIR" || exit 1
+  cat README_template.md <(echo '```txt') <(echo "Daily ${COWSAY_TMPL} say for $(date +'%D')") <(fortune | cowsay -f ${COWSAY_TMPL}) <(echo '```') > README.md
+  git add README.md && git commit -m "Daily cowsay for $(date +"%Y-%m-%d")" && git push
+}
+
+write_readme
