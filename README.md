@@ -19,5 +19,12 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily duck say for 01/15/23
+Daily duck say for 01/16/23
+ ______________________________________
+< You are number 6! Who is number one? >
+ --------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
