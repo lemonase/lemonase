@@ -19,11 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily duck say for 01/16/23
- _________________________________________
-/ Today is the tomorrow you worried about \
-\ yesterday.                              /
- -----------------------------------------
+Daily duck say for 01/17/23
+ ________________________________________
+/ I don't know half of you half as well  \
+| as I should like; and I like less than |
+| half of you half as well as you        |
+| deserve.                               |
+|                                        |
+\ -- J. R. R. Tolkien                    /
+ ----------------------------------------
  \
   \
    \ >()_
