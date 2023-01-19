@@ -19,13 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily duck say for 01/19/23
- ______________________________________
-/ You have an unusual understanding of \
-\ the problems of human relationships. /
- --------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily  say for 01/19/23
 ```
