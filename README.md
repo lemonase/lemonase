@@ -19,15 +19,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily duck say for 01/17/23
- ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
-|                                        |
-\ -- J. R. R. Tolkien                    /
- ----------------------------------------
+Daily duck say for 01/19/23
+ ______________________________________
+/ Don't tell any big lies today. Small \
+\ ones can be just as effective.       /
+ --------------------------------------
  \
   \
    \ >()_
