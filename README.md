@@ -21,8 +21,8 @@
 ```txt
 Daily duck say for 01/19/23
  ______________________________________
-/ Don't tell any big lies today. Small \
-\ ones can be just as effective.       /
+/ You have an unusual understanding of \
+\ the problems of human relationships. /
  --------------------------------------
  \
   \
