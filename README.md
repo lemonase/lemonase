@@ -20,12 +20,10 @@
 
 ```txt
 Daily cowsay for 01/19/23
- _________________________________________
-/ The human race has one really effective \
-| weapon, and that is laughter.           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ You need more time; and you probably \
+\ always will.                         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
