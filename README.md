@@ -19,11 +19,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/19/23
- ______________________________________
-/ You need more time; and you probably \
-\ always will.                         /
- --------------------------------------
+Daily cowsay for 01/20/23
+ _____________________________________
+/ You will be audited by the Internal \
+\ Revenue Service.                    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
