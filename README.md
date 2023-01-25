@@ -19,12 +19,10 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/23/23
+Daily cowsay for 01/24/23
  ______________________________________
-/ All things that are, are with more   \
-| spirit chased than enjoyed.          |
-|                                      |
-\ -- Shakespeare, "Merchant of Venice" /
+/ You will have good luck and overcome \
+\ many hardships.                      /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
