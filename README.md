@@ -19,10 +19,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/24/23
+Daily cowsay for 01/25/23
  ______________________________________
-/ You will have good luck and overcome \
-\ many hardships.                      /
+/ Your motives for doing whatever good \
+| deed you may have in mind will be    |
+\ misinterpreted by somebody.          /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
