@@ -19,12 +19,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/25/23
- ______________________________________
-/ Your motives for doing whatever good \
-| deed you may have in mind will be    |
-\ misinterpreted by somebody.          /
- --------------------------------------
+Daily cowsay for 01/26/23
+ _____________________________________
+/ The naked truth of it is, I have no \
+| shirt.                              |
+|                                     |
+| -- William Shakespeare, "Love's     |
+\ Labour's Lost"                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
