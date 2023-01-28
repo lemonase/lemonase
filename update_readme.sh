@@ -9,9 +9,12 @@
 DAILY_COWSAY="/tmp/cowsay-daily.txt"
 REPO_DIR="$(dirname -- $0)"
 
+COW_FILES=("default" "duck" "elephant" "stegosaurus" "moose" "koala" "unipony" "unipony-smaller" "sheep" "flamingsheep" "tux" "cheese" "milk" "pony" "pony-smaller" "vader" "vader-koala")
+CUR_COWFILE=${COW_FILES[ $RANDOM % ${#COW_FILES[@]} ]}
+
 echo '```txt' > $DAILY_COWSAY
 echo "Daily cowsay for $(date +'%D')" >> $DAILY_COWSAY
-(/usr/games/fortune | /usr/games/cowsay) >> $DAILY_COWSAY
+(/usr/games/fortune | /usr/games/cowsay -f $CUR_COWFILE) >> $DAILY_COWSAY
 echo '```' >> $DAILY_COWSAY
 
 cd "$REPO_DIR" || exit 1
