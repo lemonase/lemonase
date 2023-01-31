@@ -19,16 +19,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/29/23
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+Daily cowsay for 01/30/23
+ ________________________________________
+/ Your boss is a few sandwiches short of \
+\ a picnic.                              /
+ ----------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
