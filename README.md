@@ -19,40 +19,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/31/23
- _________________________________________
-/ "I understand this is your first dead   \
-| client," Sabian was saying. The         |
-| absurdity of the statement made me want |
-| to laugh but they don't call me Deadpan |
-| Allie and lie.                          |
-|                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
- -----------------------------------------
-       \          /\/\
-        \         \/\/
-         \        /   -\
-          \     /  oo   -\
-           \  /           \
-             |    ---\    -\
-             \--/     \     \
-                       |      -\
-                        \       -\         -------------\    /-\
-                         \        \-------/              ---/    \
-                          \                                  |\   \
-                           |                                 / |  |
-                           \                                |  \  |
-                            |                              /    \ |
-                            |                             /     \ |
-                             \                             \     \|
-                              -              /--------\    |      o
-                               \+   +---------          \   |
-                                |   |                   |   \
-                                |   |                    \   |
-                                |   |                    |   \
-                                |   |                     \   |
-                                 \  |                     |   |
-                                 |  |                      \  \
-                                 |  |                      |   |
-                                 +--+                       ---+
+Daily cowsay for 02/01/23
+ _______________________________________
+/ Q: What do you call the money you pay \
+| to the government when                |
+|                                       |
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
+ ---------------------------------------
+        \    ,-^-.
+         \   !oYo!
+          \ /./=\.\______
+               ##        )\/\
+                ||-----w||
+                ||      ||
+
+               Cowth Vader
 ```
