@@ -19,20 +19,29 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/01/23
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+Daily cowsay for 02/02/23
+ ________________________________________
+/ It usually takes more than three weeks \
+| to prepare a good impromptu speech.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
+   \
+    \
+      _____   _________
+     /     \_/         |
+    |                 ||
+    |                 ||
+   |    ###\  /###   | |
+   |     0  \/  0    | |
+  /|                 | |
+ / |        <        |\ \
+| /|                 | | |
+| |     \_______/   |  | |
+| |                 | / /
+/||                 /|||
+   ----------------|
+        | |    | |
+        ***    ***
+       /___\  /___\
 ```
