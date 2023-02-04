@@ -19,29 +19,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/02/23
+Daily cowsay for 02/03/23
  ________________________________________
-/ It usually takes more than three weeks \
-| to prepare a good impromptu speech.    |
-|                                        |
-\ -- Mark Twain                          /
+/ Caution: breathing may be hazardous to \
+\ your health.                           /
  ----------------------------------------
-   \
-    \
-      _____   _________
-     /     \_/         |
-    |                 ||
-    |                 ||
-   |    ###\  /###   | |
-   |     0  \/  0    | |
-  /|                 | |
- / |        <        |\ \
-| /|                 | | |
-| |     \_______/   |  | |
-| |                 | / /
-/||                 /|||
-   ----------------|
-        | |    | |
-        ***    ***
-       /___\  /___\
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
