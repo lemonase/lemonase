@@ -19,11 +19,10 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/03/23
- ________________________________________
-/ Caution: breathing may be hazardous to \
-\ your health.                           /
- ----------------------------------------
+Daily cowsay for 02/04/23
+ _____________________________________
+< Q: Are we not men? A: We are Vaxen. >
+ -------------------------------------
  \     /\  ___  /\
   \   // \/   \/ \\
      ((    O O    ))
