@@ -19,17 +19,13 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/05/23
- __________________________________
-/ You will overcome the attacks of \
-\ jealous associates.              /
- ----------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+Daily cowsay for 02/06/23
+ ______________________________
+< There is a fly on your nose. >
+ ------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
