@@ -19,13 +19,13 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/06/23
- ______________________________
-< There is a fly on your nose. >
- ------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+Daily cowsay for 02/07/23
+ _________________________________________
+/ You have a strong appeal for members of \
+\ your own sex.                           /
+ -----------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
