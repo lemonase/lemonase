@@ -19,13 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/07/23
- _________________________________________
-/ You have a strong appeal for members of \
-\ your own sex.                           /
- -----------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily cowsay for 02/08/23
+ _______________________________
+< Be careful! Is it classified? >
+ -------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
