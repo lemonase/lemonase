@@ -19,15 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/10/23
- ______________________________________
-/ You need no longer worry about the   \
-| future. This time tomorrow you'll be |
-\ dead.                                /
- --------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
+Daily cowsay for 02/11/23
+ ________________________________________
+/ Let me put it this way: today is going \
+\ to be a learning experience.           /
+ ----------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
                 ||     ||
 ```
