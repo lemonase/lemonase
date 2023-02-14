@@ -19,25 +19,25 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/12/23
- _____________________________________
-/ You will be awarded the Nobel Peace \
-\ Prize... posthumously.              /
- -------------------------------------
- \     ____________ 
-  \    |__________|
-      /           /\
-     /           /  \
-    /___________/___/|
-    |          |     |
-    |  ==\ /== |     |
-    |   O   O  | \ \ |
-    |     <    |  \ \|
-   /|          |   \ \
-  / |  \_____/ |   / /
- / /|          |  / /|
-/||\|          | /||\/
-    -------------|   
-        | |    | | 
-       <__/    \__>
+Daily cowsay for 02/13/23
+ _________________________________________
+/ In India, "cold weather" is merely a    \
+| conventional phrase and has come into   |
+| use through the necessity of having     |
+| some way to distinguish between weather |
+| which will melt a brass door-knob and   |
+| weather which will only make it mushy.  |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
