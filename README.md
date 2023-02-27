@@ -19,19 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/25/23
- ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+Daily cowsay for 02/26/23
+ ______________________________________
+/ Artistic ventures highlighted. Rob a \
+\ museum.                              /
+ --------------------------------------
   \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+   \
+       ___  
+     {~._.~}
+      ( Y )
+     ()~*~()   
+     (_)-(_)   
 ```
