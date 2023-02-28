@@ -19,16 +19,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/26/23
- ______________________________________
-/ Artistic ventures highlighted. Rob a \
-\ museum.                              /
- --------------------------------------
+Daily cowsay for 02/27/23
+ _________________________________________
+/ Clothes make the man. Naked people have \
+| little or no influence on society.      |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
   \
    \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+       __     
+      UooU\.'@@@@@@`.
+      \__/(@@@@@@@@@@)
+           (@@@@@@@@)
+           `YY~~~~YY'
+            ||    ||
 ```
