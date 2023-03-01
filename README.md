@@ -19,19 +19,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/27/23
- _________________________________________
-/ Clothes make the man. Naked people have \
-| little or no influence on society.      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
-  \
-   \
-       __     
-      UooU\.'@@@@@@`.
-      \__/(@@@@@@@@@@)
-           (@@@@@@@@)
-           `YY~~~~YY'
-            ||    ||
+Daily cowsay for 02/28/23
+ ____________________________________
+/ You have many friends and very few \
+\ living enemies.                    /
+ ------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
