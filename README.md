@@ -19,14 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/28/23
- ____________________________________
-/ You have many friends and very few \
-\ living enemies.                    /
- ------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
+Daily cowsay for 03/01/23
+ _________________________________________
+/ You will pay for your sins. If you have \
+| already paid, please disregard this     |
+\ message.                                /
+ -----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
                 ||     ||
 ```
