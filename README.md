@@ -19,16 +19,30 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/01/23
+Daily cowsay for 03/02/23
  _________________________________________
-/ You will pay for your sins. If you have \
-| already paid, please disregard this     |
-\ message.                                /
+/ Q: Where's the Lone Ranger take his     \
+| garbage? A: To the dump, to the dump,   |
+| to the dump dump dump!                  |
+|                                         |
+| Q: What's the Pink Panther say when he  |
+| steps on an ant hill? A: Dead ant, dead |
+\ ant, dead ant dead ant dead ant...      /
  -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+ \     ____________ 
+  \    |__________|
+      /           /\
+     /           /  \
+    /___________/___/|
+    |          |     |
+    |  ==\ /== |     |
+    |   O   O  | \ \ |
+    |     <    |  \ \|
+   /|          |   \ \
+  / |  \_____/ |   / /
+ / /|          |  / /|
+/||\|          | /||\/
+    -------------|   
+        | |    | | 
+       <__/    \__>
 ```
