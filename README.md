@@ -19,30 +19,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/02/23
- _________________________________________
-/ Q: Where's the Lone Ranger take his     \
-| garbage? A: To the dump, to the dump,   |
-| to the dump dump dump!                  |
-|                                         |
-| Q: What's the Pink Panther say when he  |
-| steps on an ant hill? A: Dead ant, dead |
-\ ant, dead ant dead ant dead ant...      /
- -----------------------------------------
- \     ____________ 
-  \    |__________|
-      /           /\
-     /           /  \
-    /___________/___/|
-    |          |     |
-    |  ==\ /== |     |
-    |   O   O  | \ \ |
-    |     <    |  \ \|
-   /|          |   \ \
-  / |  \_____/ |   / /
- / /|          |  / /|
-/||\|          | /||\/
-    -------------|   
-        | |    | | 
-       <__/    \__>
+Daily cowsay for 03/03/23
+ ________________________________________
+/ Always the dullness of the fool is the \
+| whetstone of the wits.                 |
+|                                        |
+| -- William Shakespeare, "As You Like   |
+\ It"                                    /
+ ----------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
+                ||     ||
 ```
