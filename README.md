@@ -19,14 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/03/23
- ________________________________________
-/ Always the dullness of the fool is the \
-| whetstone of the wits.                 |
-|                                        |
-| -- William Shakespeare, "As You Like   |
-\ It"                                    /
- ----------------------------------------
+Daily cowsay for 03/04/23
+ _________________________________________
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
+|                                         |
+\ -- Jack Kerouac, "On the Road"          /
+ -----------------------------------------
    \        \
     \        \
      \       _\^
