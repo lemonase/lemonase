@@ -19,19 +19,21 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/05/23
- ________________________________________
-/ Q: What's a WASP's idea of             \
-\ open-mindedness? A: Dating a Canadian. /
- ----------------------------------------
+Daily cowsay for 03/06/23
+ ____________________________________
+/ Talkers are no good doers.         \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
    \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
+    \        .
+     .---.  //
+    Y|o o|Y// 
+   /_(i=i)K/ 
+   ~()~*~()~  
+    (_)-(_)   
 
+     Darth 
+     Vader    
+     koala        
 ```
