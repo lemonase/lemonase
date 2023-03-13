@@ -19,13 +19,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/11/23
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
+Daily cowsay for 03/13/23
+ _____________________________________
+/ Change your thoughts and you change \
+\ your world.                         /
+ -------------------------------------
  \     /\  ___  /\
   \   // \/   \/ \\
      ((    O O    ))
