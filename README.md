@@ -19,19 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/13/23
- _____________________________________
-/ Change your thoughts and you change \
-\ your world.                         /
- -------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Daily cowsay for 03/14/23
+ _________________________________________
+/ You are deeply attached to your friends \
+\ and acquaintances.                      /
+ -----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
