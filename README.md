@@ -19,18 +19,38 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/18/23
- _______________________________________
-/ You should emulate your heros, but    \
-| don't carry it too far. Especially if |
-\ they are dead.                        /
- ---------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 03/19/23
+ ________________________________________
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
+|                                        |
+\ gets all the credit.                   /
+ ----------------------------------------
+       \          /\/\
+        \         \/\/
+         \        /   -\
+          \     /  oo   -\
+           \  /           \
+             |    ---\    -\
+             \--/     \     \
+                       |      -\
+                        \       -\         -------------\    /-\
+                         \        \-------/              ---/    \
+                          \                                  |\   \
+                           |                                 / |  |
+                           \                                |  \  |
+                            |                              /    \ |
+                            |                             /     \ |
+                             \                             \     \|
+                              -              /--------\    |      o
+                               \+   +---------          \   |
+                                |   |                   |   \
+                                |   |                    \   |
+                                |   |                    |   \
+                                |   |                     \   |
+                                 \  |                     |   |
+                                 |  |                      \  \
+                                 |  |                      |   |
+                                 +--+                       ---+
 ```
