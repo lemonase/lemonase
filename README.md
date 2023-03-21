@@ -19,18 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/20/23
- ____________________________________
-/ He is now rising from affluence to \
-| poverty.                           |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
-  \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+Daily cowsay for 03/21/23
+ _______________________________________
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
+ ---------------------------------------
+        \    ,-^-.
+         \   !oYo!
+          \ /./=\.\______
+               ##        )\/\
+                ||-----w||
+                ||      ||
+
+               Cowth Vader
 ```
