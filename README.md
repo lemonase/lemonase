@@ -19,14 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/24/23
- _________________________________________
-< Q: How do you keep a moron in suspense? >
- -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+Daily cowsay for 03/25/23
+ _____________________________________
+/ Q: What is printed on the bottom of \
+| beer bottles in Minnesota? A: Open  |
+\ other end.                          /
+ -------------------------------------
+  \
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
