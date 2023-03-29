@@ -19,11 +19,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/28/23
- __________________________________
-/ You are capable of planning your \
-\ future.                          /
- ----------------------------------
+Daily cowsay for 03/29/23
+ ________________________________________
+/ Q: Why do WASPs play golf ? A: So they \
+\ can dress like pimps.                  /
+ ----------------------------------------
    \        \
     \        \
      \       _\^
