@@ -19,26 +19,38 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 04/17/23
- _________________________________________
-/ I got a hint of things to come when I   \
-| overheard my boss lamenting, 'The books |
-| are done and we still don't have an     |
-| author! I must sign someone today!      |
-|                                         |
-| -- Tamim Ansary, "Edutopia Magazine,    |
-| Issue 2, November 2004"                 |
-|                                         |
-\ on the topic of school textbooks        /
- -----------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Daily cowsay for 04/18/23
+ ______________________________________
+/ Tell the truth or trump--but get the \
+| trick.                               |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
+       \          /\/\
+        \         \/\/
+         \        /   -\
+          \     /  oo   -\
+           \  /           \
+             |    ---\    -\
+             \--/     \     \
+                       |      -\
+                        \       -\         -------------\    /-\
+                         \        \-------/              ---/    \
+                          \                                  |\   \
+                           |                                 / |  |
+                           \                                |  \  |
+                            |                              /    \ |
+                            |                             /     \ |
+                             \                             \     \|
+                              -              /--------\    |      o
+                               \+   +---------          \   |
+                                |   |                   |   \
+                                |   |                    \   |
+                                |   |                    |   \
+                                |   |                     \   |
+                                 \  |                     |   |
+                                 |  |                      \  \
+                                 |  |                      |   |
+                                 +--+                       ---+
 ```
