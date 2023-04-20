@@ -19,31 +19,24 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 04/19/23
+Daily cowsay for 04/20/23
  _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
+/  The Priest's grey nimbus in a niche    \
+| where he dressed discreetly. I will not |
+| sleep here tonight. Home also I cannot  |
+| go.                                     |
 |                                         |
-\ of license fee (binary only).           /
+| A voice, sweetened and sustained,       |
+| called to him from the sea. Turning the |
+| curve he waved his hand. A sleek brown  |
+| head, a seal's, far out on the water,   |
+| round. Usurper.                         |
+|                                         |
+\ -- James Joyce, "Ulysses"               /
  -----------------------------------------
-   \
-    \
-      _____   _________
-     /     \_/         |
-    |                 ||
-    |                 ||
-   |    ###\  /###   | |
-   |     0  \/  0    | |
-  /|                 | |
- / |        <        |\ \
-| /|                 | | |
-| |     \_______/   |  | |
-| |                 | / /
-/||                 /|||
-   ----------------|
-        | |    | |
-        ***    ***
-       /___\  /___\
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
