@@ -19,29 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 04/23/23
- _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
-|                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
- -----------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Daily cowsay for 04/24/23
+ ________________________________
+< You will get what you deserve. >
+ --------------------------------
+  \
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
