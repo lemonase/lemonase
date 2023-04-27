@@ -19,17 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 04/26/23
+Daily cowsay for 04/27/23
  ________________________________________
-/ You possess a mind not merely twisted, \
-\ but actually sprained.                 /
+/ I fell asleep reading a dull book, and \
+| I dreamt that I was reading on, so I   |
+\ woke up from sheer boredom.            /
  ----------------------------------------
-  \
-   \
-       __     
-      UooU\.'@@@@@@`.
-      \__/(@@@@@@@@@@)
-           (@@@@@@@@)
-           `YY~~~~YY'
-            ||    ||
+        \    ,-^-.
+         \   !oYo!
+          \ /./=\.\______
+               ##        )\/\
+                ||-----w||
+                ||      ||
+
+               Cowth Vader
 ```
