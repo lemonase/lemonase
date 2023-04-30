@@ -19,10 +19,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 04/29/23
- ______________________________
-< Slow day. Practice crawling. >
- ------------------------------
+Daily cowsay for 04/30/23
+ _________________________________________
+/ Cheer Up! Things are getting worse at a \
+\ slower rate.                            /
+ -----------------------------------------
    \
     \
         .--.
