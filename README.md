@@ -19,18 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/02/23
- ____________________________________
-/ You tread upon my patience.        \
-|                                    |
-\ -- William Shakespeare, "Henry IV" /
- ------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 05/03/23
 ```
