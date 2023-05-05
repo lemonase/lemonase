@@ -19,17 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/04/23
- ____________________________________
-/ After your lover has gone you will \
-\ still have PEANUT BUTTER!          /
- ------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+Daily cowsay for 05/05/23
+ ______________________________________
+/ You'd like to do it instantaneously, \
+\ but that's too slow.                 /
+ --------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
+                ||     ||
 ```
