@@ -19,11 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/05/23
- ______________________________________
-/ You'd like to do it instantaneously, \
-\ but that's too slow.                 /
- --------------------------------------
+Daily cowsay for 05/06/23
+ _________________________________________
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
+|                                         |
+\ to the earlier joke.                    /
+ -----------------------------------------
    \        \
     \        \
      \       _\^
