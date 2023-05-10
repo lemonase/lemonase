@@ -19,21 +19,30 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/09/23
+Daily cowsay for 05/10/23
  ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
+/ Q: Why don't Scotsmen ever have coffee \
+| the way they like it? A: Well, they    |
+| like it with two lumps of sugar. If    |
+| they drink                             |
+|                                        |
+| it at home, they only take one, and if |
+| they drink it while                    |
+|                                        |
+\ visiting, they always take three.      /
  ----------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-
+\                             .       .
+ \                           / `.   .' " 
+  \                  .---.  <    > <    >  .---.
+   \                 |    \  \ - ~ ~ - /  /    |
+         _____          ..-~             ~-..-~
+        |     |   \~~~\.'                    `./~~~/
+       ---------   \__/                        \__/
+      .'  O    \     /               /       \  " 
+     (_____,    `._.'               |         }  \/~~~/
+      `----.          /       }     |        /    \__/
+            `-.      |       /      |       /      `. ,~~|
+                ~-.__|      /_ - ~ ^|      /- _      `..-'   
+                     |     /        |     /     ~-.     `-. _  _  _
+                     |_____|        |_____|         ~ - . _ _ _ _ _>
 ```
