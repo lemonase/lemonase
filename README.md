@@ -19,19 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/11/23
- _______________________________________
-/ October 12, the Discovery.            \
-|                                       |
-| It was wonderful to find America, but |
-| it would have been more wonderful to  |
-| miss it.                              |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
- \
+Daily cowsay for 05/12/23
+ ___________________________
+< You have no real enemies. >
+ ---------------------------
   \
-   \ >()_
-      (__)__ _
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
