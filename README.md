@@ -19,24 +19,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/16/23
- _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
-|                                         |
-\ to the earlier joke.                    /
- -----------------------------------------
+Daily cowsay for 05/17/23
+ _______________________________________
+/ Anyone who has had a bull by the tail \
+| knows five or six more things than    |
+| someone who hasn't.                   |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
+  \
    \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
-
-     Darth 
-     Vader    
-     koala        
+       ___  
+     {~._.~}
+      ( Y )
+     ()~*~()   
+     (_)-(_)   
 ```
