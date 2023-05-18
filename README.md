@@ -19,19 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/17/23
- _______________________________________
-/ Anyone who has had a bull by the tail \
-| knows five or six more things than    |
-| someone who hasn't.                   |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
-  \
-   \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+Daily cowsay for 05/18/23
 ```
