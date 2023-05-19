@@ -19,5 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/18/23
+Daily cowsay for 05/19/23
+ _________________________________________
+/ You are deeply attached to your friends \
+\ and acquaintances.                      /
+ -----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
