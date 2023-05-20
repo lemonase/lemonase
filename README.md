@@ -19,15 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/19/23
- _________________________________________
-/ You are deeply attached to your friends \
-\ and acquaintances.                      /
- -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+Daily cowsay for 05/20/23
+ _______________________________________
+/ Noise proves nothing. Often a hen who \
+| has merely laid an egg cackles as if  |
+| she laid an asteroid.                 |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
