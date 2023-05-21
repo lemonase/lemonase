@@ -19,16 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/20/23
- _______________________________________
-/ Noise proves nothing. Often a hen who \
-| has merely laid an egg cackles as if  |
-| she laid an asteroid.                 |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
- \
+Daily cowsay for 05/21/23
+ _____________________________________
+/ Change your thoughts and you change \
+\ your world.                         /
+ -------------------------------------
   \
-   \ >()_
-      (__)__ _
+   \
+       __     
+      UooU\.'@@@@@@`.
+      \__/(@@@@@@@@@@)
+           (@@@@@@@@)
+           `YY~~~~YY'
+            ||    ||
 ```
