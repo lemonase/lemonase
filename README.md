@@ -19,23 +19,34 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/22/23
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Daily cowsay for 05/23/23
+ ________________________________
+/ To be or not to be.            \
+|                                |
+| -- Shakespeare To do is to be. |
+|                                |
+| -- Nietzsche To be is to do.   |
+|                                |
+| -- Sartre Do be do be do.      |
+|                                |
+\ -- Sinatra                     /
+ --------------------------------
+   \
+    \
+      _____   _________
+     /     \_/         |
+    |                 ||
+    |                 ||
+   |    ###\  /###   | |
+   |     0  \/  0    | |
+  /|                 | |
+ / |        <        |\ \
+| /|                 | | |
+| |     \_______/   |  | |
+| |                 | / /
+/||                 /|||
+   ----------------|
+        | |    | |
+        ***    ***
+       /___\  /___\
 ```
