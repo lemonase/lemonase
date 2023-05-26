@@ -19,24 +19,21 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/25/23
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
-  \
+Daily cowsay for 05/26/23
+ _______________________________________
+/ Troubled day for virgins over 16 who  \
+| are beautiful and wealthy and live in |
+\ eucalyptus trees.                     /
+ ---------------------------------------
    \
-       __     
-      UooU\.'@@@@@@`.
-      \__/(@@@@@@@@@@)
-           (@@@@@@@@)
-           `YY~~~~YY'
-            ||    ||
+    \        .
+     .---.  //
+    Y|o o|Y// 
+   /_(i=i)K/ 
+   ~()~*~()~  
+    (_)-(_)   
+
+     Darth 
+     Vader    
+     koala        
 ```
