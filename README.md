@@ -19,21 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/26/23
- _______________________________________
-/ Troubled day for virgins over 16 who  \
-| are beautiful and wealthy and live in |
-\ eucalyptus trees.                     /
- ---------------------------------------
-   \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
-
-     Darth 
-     Vader    
-     koala        
+Daily cowsay for 05/27/23
+ ______________________________________
+/ Your reasoning is excellent -- it's  \
+| only your basic assumptions that are |
+\ wrong.                               /
+ --------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
+                ||     ||
 ```
