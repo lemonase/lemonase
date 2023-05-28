@@ -19,18 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 05/27/23
- ______________________________________
-/ Your reasoning is excellent -- it's  \
-| only your basic assumptions that are |
-\ wrong.                               /
- --------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 05/28/23
+ ____________________________________
+/ Don't kiss an elephant on the lips \
+\ today.                             /
+ ------------------------------------
+  \
+   \
+       __     
+      UooU\.'@@@@@@`.
+      \__/(@@@@@@@@@@)
+           (@@@@@@@@)
+           `YY~~~~YY'
+            ||    ||
 ```
