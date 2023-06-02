@@ -19,17 +19,21 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/01/23
+Daily cowsay for 06/02/23
  _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
  -----------------------------------------
-       \          /\/\
-        \         \/\/
-         \        /   -\
-          \     /  oo   -\
-           \  /           \
+   \             \
+    \             \_
+     \             \\
+      \             \\/\
+       \            _\\/
+        \         /   -\
+         \      /  oo   -\
+          \   /           \
              |    ---\    -\
              \--/     \     \
                        |      -\
