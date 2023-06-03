@@ -19,40 +19,33 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/02/23
- _________________________________________
-/ Q: What do you get when you cross a     \
-| mobster with an international standard? |
-| A: You get someone who makes you an     |
-\ offer that you can't understand!        /
- -----------------------------------------
-   \             \
-    \             \_
-     \             \\
-      \             \\/\
-       \            _\\/
-        \         /   -\
-         \      /  oo   -\
-          \   /           \
-             |    ---\    -\
-             \--/     \     \
-                       |      -\
-                        \       -\         -------------\    /-\
-                         \        \-------/              ---/    \
-                          \                                  |\   \
-                           |                                 / |  |
-                           \                                |  \  |
-                            |                              /    \ |
-                            |                             /     \ |
-                             \                             \     \|
-                              -              /--------\    |      o
-                               \+   +---------          \   |
-                                |   |                   |   \
-                                |   |                    \   |
-                                |   |                    |   \
-                                |   |                     \   |
-                                 \  |                     |   |
-                                 |  |                      \  \
-                                 |  |                      |   |
-                                 +--+                       ---+
+Daily cowsay for 06/03/23
+ ________________________________________
+/ We know all about the habits of the    \
+| ant, we know all about the habits of   |
+| the bee, but we know nothing at all    |
+| about the habits of the oyster. It     |
+| seems almost certain that we have been |
+| choosing the wrong time for studying   |
+| the oyster.                            |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
+ \     ____________ 
+  \    |__________|
+      /           /\
+     /           /  \
+    /___________/___/|
+    |          |     |
+    |  ==\ /== |     |
+    |   O   O  | \ \ |
+    |     <    |  \ \|
+   /|          |   \ \
+  / |  \_____/ |   / /
+ / /|          |  / /|
+/||\|          | /||\/
+    -------------|   
+        | |    | | 
+       <__/    \__>
 ```
