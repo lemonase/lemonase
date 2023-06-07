@@ -19,16 +19,22 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/06/23
- ______________________________________
-/ If two people love each other, there \
-| can be no happy end to it.           |
-|                                      |
-\ -- Ernest Hemingway                  /
- --------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+Daily cowsay for 06/07/23
+ _________________________________________
+/ He that is giddy thinks the world turns \
+| round.                                  |
+|                                         |
+| -- William Shakespeare, "The Taming of  |
+\ the Shrew"                              /
+ -----------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
