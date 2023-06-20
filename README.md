@@ -19,39 +19,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/19/23
- _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
-|                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
- ---------------------------------------
-       \          /\/\
-        \         \/\/
-         \        /   -\
-          \     /  oo   -\
-           \  /           \
-             |    ---\    -\
-             \--/     \     \
-                       |      -\
-                        \       -\         -------------\    /-\
-                         \        \-------/              ---/    \
-                          \                                  |\   \
-                           |                                 / |  |
-                           \                                |  \  |
-                            |                              /    \ |
-                            |                             /     \ |
-                             \                             \     \|
-                              -              /--------\    |      o
-                               \+   +---------          \   |
-                                |   |                   |   \
-                                |   |                    \   |
-                                |   |                    |   \
-                                |   |                     \   |
-                                 \  |                     |   |
-                                 |  |                      \  \
-                                 |  |                      |   |
-                                 +--+                       ---+
+Daily cowsay for 06/20/23
+ ________________________________________
+/ Your analyst has you mixed up with     \
+| another patient. Don't believe a thing |
+\ he tells you.                          /
+ ----------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
