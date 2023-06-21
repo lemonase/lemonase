@@ -19,14 +19,29 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/20/23
- ________________________________________
-/ Your analyst has you mixed up with     \
-| another patient. Don't believe a thing |
-\ he tells you.                          /
- ----------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily cowsay for 06/21/23
+ _________________________________________
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
+ -----------------------------------------
+   \
+    \
+      _____   _________
+     /     \_/         |
+    |                 ||
+    |                 ||
+   |    ###\  /###   | |
+   |     0  \/  0    | |
+  /|                 | |
+ / |        <        |\ \
+| /|                 | | |
+| |     \_______/   |  | |
+| |                 | / /
+/||                 /|||
+   ----------------|
+        | |    | |
+        ***    ***
+       /___\  /___\
 ```
