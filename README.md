@@ -19,29 +19,13 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/21/23
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
-   \
-    \
-      _____   _________
-     /     \_/         |
-    |                 ||
-    |                 ||
-   |    ###\  /###   | |
-   |     0  \/  0    | |
-  /|                 | |
- / |        <        |\ \
-| /|                 | | |
-| |     \_______/   |  | |
-| |                 | / /
-/||                 /|||
-   ----------------|
-        | |    | |
-        ***    ***
-       /___\  /___\
+Daily cowsay for 06/22/23
+ _______________________________________
+< Your domestic life may be harmonious. >
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
