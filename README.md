@@ -19,18 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/24/23
- ______________________________________
-/ "Not Hercules could have knock'd out \
-| his brains, for he had none."        |
-|                                      |
-\ -- Shakespeare                       /
- --------------------------------------
+Daily cowsay for 06/25/23
+ _______________________________________
+/ You are so boring that when I see you \
+\ my feet go to sleep.                  /
+ ---------------------------------------
   \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+   \
+       ___  
+     {~._.~}
+      ( Y )
+     ()~*~()   
+     (_)-(_)   
 ```
