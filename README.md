@@ -19,16 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/25/23
- _______________________________________
-/ You are so boring that when I see you \
-\ my feet go to sleep.                  /
- ---------------------------------------
-  \
-   \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+Daily cowsay for 06/26/23
 ```
