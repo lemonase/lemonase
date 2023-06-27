@@ -19,5 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 06/26/23
+Daily cowsay for 06/27/23
+ ________________________________
+/ She is not refined. She is not \
+| unrefined. She keeps a parrot. |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
+  \
+   \
+       ___  
+     {~._.~}
+      ( Y )
+     ()~*~()   
+     (_)-(_)   
 ```
