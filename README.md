@@ -19,15 +19,25 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/04/23
+Daily cowsay for 07/05/23
  _____________________________________
-/ Someone whom you reject today, will \
-\ reject you tomorrow.                /
+/ You recoil from the crude; you tend \
+\ naturally toward the exquisite.     /
  -------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+ \     ____________ 
+  \    |__________|
+      /           /\
+     /           /  \
+    /___________/___/|
+    |          |     |
+    |  ==\ /== |     |
+    |   O   O  | \ \ |
+    |     <    |  \ \|
+   /|          |   \ \
+  / |  \_____/ |   / /
+ / /|          |  / /|
+/||\|          | /||\/
+    -------------|   
+        | |    | | 
+       <__/    \__>
 ```
