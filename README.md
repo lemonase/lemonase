@@ -19,15 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/07/23
- _________________________________________
-/ Perfect day for scrubbing the floor and \
-\ other exciting things.                  /
- -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
+Daily cowsay for 07/08/23
+ _____________________________________
+/ Beware of a tall black man with one \
+\ blond shoe.                         /
+ -------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
                 ||     ||
 ```
