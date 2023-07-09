@@ -19,17 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/08/23
- _____________________________________
-/ Beware of a tall black man with one \
-\ blond shoe.                         /
- -------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 07/09/23
 ```
