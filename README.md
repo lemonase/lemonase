@@ -19,18 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/14/23
- _________________________________________
-/ This was the most unkindest cut of all. \
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
+Daily cowsay for 07/15/23
+ ________________________________________
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
+ ----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
                 ||     ||
 ```
