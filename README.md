@@ -19,17 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/20/23
- _______________________________________
-/ This will be a memorable month -- no  \
-\ matter how hard you try to forget it. /
- ---------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+Daily cowsay for 07/21/23
+ ________________________________________
+/ You will be awarded a medal for        \
+\ disregarding safety in saving someone. /
+ ----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
