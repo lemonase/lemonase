@@ -19,15 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/21/23
- ________________________________________
-/ You will be awarded a medal for        \
-\ disregarding safety in saving someone. /
- ----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+Daily cowsay for 07/22/23
 ```
