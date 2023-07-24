@@ -19,36 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/23/23
+Daily cowsay for 07/24/23
  _________________________________________
-/ "... all the modern inconveniences ..." \
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
 |                                         |
-\ -- Mark Twain                           /
+\ existentialist?" A: "Is there a dog?"   /
  -----------------------------------------
-       \          /\/\
-        \         \/\/
-         \        /   -\
-          \     /  oo   -\
-           \  /           \
-             |    ---\    -\
-             \--/     \     \
-                       |      -\
-                        \       -\         -------------\    /-\
-                         \        \-------/              ---/    \
-                          \                                  |\   \
-                           |                                 / |  |
-                           \                                |  \  |
-                            |                              /    \ |
-                            |                             /     \ |
-                             \                             \     \|
-                              -              /--------\    |      o
-                               \+   +---------          \   |
-                                |   |                   |   \
-                                |   |                    \   |
-                                |   |                    |   \
-                                |   |                     \   |
-                                 \  |                     |   |
-                                 |  |                      \  \
-                                 |  |                      |   |
-                                 +--+                       ---+
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
