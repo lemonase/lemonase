@@ -19,17 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/24/23
+Daily cowsay for 07/25/23
  _________________________________________
-/ Q: "What is the burning question on the \
-| mind of every dyslexic                  |
-|                                         |
-\ existentialist?" A: "Is there a dog?"   /
+/ You'll feel devilish tonight. Toss      \
+| dynamite caps under a flamenco dancer's |
+\ heel.                                   /
  -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+  \
+   \
+       ___  
+     {~._.~}
+      ( Y )
+     ()~*~()   
+     (_)-(_)   
 ```
