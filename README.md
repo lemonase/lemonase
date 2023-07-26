@@ -19,17 +19,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/25/23
- _________________________________________
-/ You'll feel devilish tonight. Toss      \
-| dynamite caps under a flamenco dancer's |
-\ heel.                                   /
- -----------------------------------------
+Daily cowsay for 07/26/23
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+| A: To see his friend Gregory peck.     |
+|                                        |
+| Q: Why did the chicken cross the       |
+| playground? A: To get to the other     |
+\ slide.                                 /
+ ----------------------------------------
   \
-   \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
