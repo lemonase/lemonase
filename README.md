@@ -19,20 +19,29 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/26/23
- ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
-|                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
- ----------------------------------------
-  \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+Daily cowsay for 07/27/23
+ _______________________________________
+/ Q: Minnesotans ask, "Why aren't there \
+| more pharmacists from Alabama?" A:    |
+| Easy. It's because they can't figure  |
+| out how to get the little             |
+|                                       |
+\ bottles into the typewriter.          /
+ ---------------------------------------
+ \     ____________ 
+  \    |__________|
+      /           /\
+     /           /  \
+    /___________/___/|
+    |          |     |
+    |  ==\ /== |     |
+    |   O   O  | \ \ |
+    |     <    |  \ \|
+   /|          |   \ \
+  / |  \_____/ |   / /
+ / /|          |  / /|
+/||\|          | /||\/
+    -------------|   
+        | |    | | 
+       <__/    \__>
 ```
