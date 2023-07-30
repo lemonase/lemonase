@@ -19,18 +19,30 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 07/29/23
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: You won't find |
-| a lawyer who can change a light bulb.  |
-| Now, if                                |
-|                                        |
-| you're looking for a lawyer to screw a |
-\ light bulb...                          /
- ----------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily cowsay for 07/30/23
+ ________________________________
+/ To be or not to be.            \
+|                                |
+| -- Shakespeare To do is to be. |
+|                                |
+| -- Nietzsche To be is to do.   |
+|                                |
+| -- Sartre Do be do be do.      |
+|                                |
+\ -- Sinatra                     /
+ --------------------------------
+\                             .       .
+ \                           / `.   .' " 
+  \                  .---.  <    > <    >  .---.
+   \                 |    \  \ - ~ ~ - /  /    |
+         _____          ..-~             ~-..-~
+        |     |   \~~~\.'                    `./~~~/
+       ---------   \__/                        \__/
+      .'  O    \     /               /       \  " 
+     (_____,    `._.'               |         }  \/~~~/
+      `----.          /       }     |        /    \__/
+            `-.      |       /      |       /      `. ,~~|
+                ~-.__|      /_ - ~ ^|      /- _      `..-'   
+                     |     /        |     /     ~-.     `-. _  _  _
+                     |_____|        |_____|         ~ - . _ _ _ _ _>
 ```
