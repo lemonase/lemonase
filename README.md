@@ -19,46 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/01/23
- _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
-|                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
- -----------------------------------------
-       \          /\/\
-        \         \/\/
-         \        /   -\
-          \     /  oo   -\
-           \  /           \
-             |    ---\    -\
-             \--/     \     \
-                       |      -\
-                        \       -\         -------------\    /-\
-                         \        \-------/              ---/    \
-                          \                                  |\   \
-                           |                                 / |  |
-                           \                                |  \  |
-                            |                              /    \ |
-                            |                             /     \ |
-                             \                             \     \|
-                              -              /--------\    |      o
-                               \+   +---------          \   |
-                                |   |                   |   \
-                                |   |                    \   |
-                                |   |                    |   \
-                                |   |                     \   |
-                                 \  |                     |   |
-                                 |  |                      \  \
-                                 |  |                      |   |
-                                 +--+                       ---+
+Daily cowsay for 08/02/23
 ```
