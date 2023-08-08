@@ -19,21 +19,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/07/23
- _______________________________________
-/ Q: What's the difference between USL  \
-| and the Titanic? A: The Titanic had a |
-\ band.                                 /
- ---------------------------------------
+Daily cowsay for 08/08/23
+ ____________________________________
+/ Excellent time to become a missing \
+\ person.                            /
+ ------------------------------------
    \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 
-     Darth 
-     Vader    
-     koala        
 ```
