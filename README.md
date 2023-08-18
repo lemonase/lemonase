@@ -19,16 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/17/23
- ___________________________________
-/ You will gain money by an illegal \
-\ action.                           /
- -----------------------------------
-  \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+Daily cowsay for 08/18/23
 ```
