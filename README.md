@@ -19,5 +19,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/18/23
+Daily cowsay for 08/19/23
+ ___________________________________
+/ Life is to you a dashing and bold \
+\ adventure.                        /
+ -----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
