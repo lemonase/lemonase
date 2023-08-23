@@ -19,16 +19,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/22/23
- ________________________________
-/ Never look up when dragons fly \
-\ overhead.                      /
- --------------------------------
+Daily cowsay for 08/23/23
+ __________________________________
+/ Someone is speaking well of you. \
+|                                  |
+\ How unusual!                     /
+ ----------------------------------
+ \
   \
-   \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+   \ >()_
+      (__)__ _
 ```
