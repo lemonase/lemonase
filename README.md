@@ -19,14 +19,42 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/23/23
- __________________________________
-/ Someone is speaking well of you. \
-|                                  |
-\ How unusual!                     /
- ----------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily cowsay for 08/24/23
+ _______________________________________
+/ The difference between the right word \
+| and the almost right word is the      |
+| difference between lightning and the  |
+| lightning bug.                        |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
+   \             \
+    \             \_
+     \             \\
+      \             \\/\
+       \            _\\/
+        \         /   -\
+         \      /  oo   -\
+          \   /           \
+             |    ---\    -\
+             \--/     \     \
+                       |      -\
+                        \       -\         -------------\    /-\
+                         \        \-------/              ---/    \
+                          \                                  |\   \
+                           |                                 / |  |
+                           \                                |  \  |
+                            |                              /    \ |
+                            |                             /     \ |
+                             \                             \     \|
+                              -              /--------\    |      o
+                               \+   +---------          \   |
+                                |   |                   |   \
+                                |   |                    \   |
+                                |   |                    |   \
+                                |   |                     \   |
+                                 \  |                     |   |
+                                 |  |                      \  \
+                                 |  |                      |   |
+                                 +--+                       ---+
 ```
