@@ -19,18 +19,21 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/26/23
- _________________________________
-< There was a phone call for you. >
- ---------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-
+Daily cowsay for 08/27/23
+ ________________________________________
+/ My only love sprung from my only hate! \
+| Too early seen unknown, and known too  |
+| late!                                  |
+|                                        |
+| -- William Shakespeare, "Romeo and     |
+\ Juliet"                                /
+ ----------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
+                ||     ||
 ```
