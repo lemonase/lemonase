@@ -19,21 +19,23 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/27/23
+Daily cowsay for 08/28/23
  ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
 |                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
+\ gets all the credit.                   /
  ----------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+   \
+    \        .
+     .---.  //
+    Y|o o|Y// 
+   /_(i=i)K/ 
+   ~()~*~()~  
+    (_)-(_)   
+
+     Darth 
+     Vader    
+     koala        
 ```
