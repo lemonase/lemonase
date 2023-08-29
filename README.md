@@ -19,23 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/28/23
- ________________________________________
-/ Q: Why is Christmas just like a day at \
-| the office? A: You do all of the work  |
-| and the fat guy in the suit            |
-|                                        |
-\ gets all the credit.                   /
- ----------------------------------------
-   \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
-
-     Darth 
-     Vader    
-     koala        
+Daily cowsay for 08/29/23
 ```
