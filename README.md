@@ -19,39 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/30/23
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
-       \          /\/\
-        \         \/\/
-         \        /   -\
-          \     /  oo   -\
-           \  /           \
-             |    ---\    -\
-             \--/     \     \
-                       |      -\
-                        \       -\         -------------\    /-\
-                         \        \-------/              ---/    \
-                          \                                  |\   \
-                           |                                 / |  |
-                           \                                |  \  |
-                            |                              /    \ |
-                            |                             /     \ |
-                             \                             \     \|
-                              -              /--------\    |      o
-                               \+   +---------          \   |
-                                |   |                   |   \
-                                |   |                    \   |
-                                |   |                    |   \
-                                |   |                     \   |
-                                 \  |                     |   |
-                                 |  |                      \  \
-                                 |  |                      |   |
-                                 +--+                       ---+
+Daily cowsay for 08/31/23
+ ______________________________________
+/ Let me take you a button-hole lower. \
+|                                      |
+| -- William Shakespeare, "Love's      |
+\ Labour's Lost"                       /
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
