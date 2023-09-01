@@ -19,16 +19,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 08/31/23
- ______________________________________
-/ Let me take you a button-hole lower. \
-|                                      |
-| -- William Shakespeare, "Love's      |
-\ Labour's Lost"                       /
- --------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
+Daily cowsay for 09/01/23
+ ________________________________________
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
                 ||     ||
 ```
