@@ -19,17 +19,21 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 09/03/23
+Daily cowsay for 09/04/23
  _________________________________________
-/ You two ought to be more careful--your  \
-\ love could drag on for years and years. /
+/ Behold, the fool saith, "Put not all    \
+| thine eggs in the one basket"--which is |
+| but a manner of saying, "Scatter your   |
+| money and your attention;" but the wise |
+| man saith, "Put all your eggs in the    |
+| one basket and--WATCH THAT BASKET."     |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
