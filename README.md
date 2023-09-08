@@ -19,17 +19,29 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 09/07/23
- _______________________________________
-/ Don't you wish you had more energy... \
-\ or less ambition?                     /
- ---------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 09/08/23
+ ________________________________________
+/ Consider well the proportions of       \
+| things. It is better to be a young     |
+| June-bug than an old bird of paradise. |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
+ \     ____________ 
+  \    |__________|
+      /           /\
+     /           /  \
+    /___________/___/|
+    |          |     |
+    |  ==\ /== |     |
+    |   O   O  | \ \ |
+    |     <    |  \ \|
+   /|          |   \ \
+  / |  \_____/ |   / /
+ / /|          |  / /|
+/||\|          | /||\/
+    -------------|   
+        | |    | | 
+       <__/    \__>
 ```
