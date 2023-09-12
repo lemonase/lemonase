@@ -19,16 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 09/11/23
- ________________________________________
-/ Q: Why did the chicken cross the road? \
-\ A: He was giving it last rites.        /
- ----------------------------------------
+Daily cowsay for 09/12/23
+ ____________________________________
+/ Suspicion always haunts the guilty \
+| mind.                              |
+|                                    |
+\ -- Wm. Shakespeare                 /
+ ------------------------------------
   \
-   \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
