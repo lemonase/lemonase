@@ -19,20 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 09/23/23
- _____________________________________
-/ You will have a long and unpleasant \
-\ discussion with your supervisor.    /
- -------------------------------------
-   \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
-
-     Darth 
-     Vader    
-     koala        
+Daily cowsay for 09/24/23
 ```
