@@ -20,16 +20,21 @@
 
 ```txt
 Daily cowsay for 09/25/23
- ______________________________________
-/ Q: What's a light-year? A: One-third \
-\ less calories than a regular year.   /
- --------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
+ _________________________________________
+/ It is right that he too should have his \
+| little chronicle, his memories, his     |
+| reason, and be able to recognize the    |
+| good in the bad, the bad in the worst,  |
+| and so grow gently old all down the     |
+| unchanging days and die one day like    |
+| any other day, only shorter.            |
+|                                         |
+\ -- Samuel Beckett, "Malone Dies"        /
+ -----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
                 ||     ||
 ```
