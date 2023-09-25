@@ -19,5 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 09/24/23
+Daily cowsay for 09/25/23
+ ______________________________________
+/ Q: What's a light-year? A: One-third \
+\ less calories than a regular year.   /
+ --------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
+                ||     ||
 ```
