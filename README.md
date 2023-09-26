@@ -19,22 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 09/25/23
+Daily cowsay for 09/26/23
  _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
+/ Q: Why do ducks have big flat feet? A:  \
+| To stamp out forest fires.              |
 |                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
+| Q: Why do elephants have big flat feet? |
+\ A: To stamp out flaming ducks.          /
  -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
                 ||     ||
 ```
