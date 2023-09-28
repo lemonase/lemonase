@@ -19,20 +19,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 09/27/23
- _______________________________________
-/ You will be aided greatly by a person \
-\ whom you thought to be unimportant.   /
- ---------------------------------------
+Daily cowsay for 09/28/23
+ _________________________________________
+/ Knucklehead: "Knock, knock" Pee Wee:    \
+| "Who's there?" Knucklehead: "Little ol' |
+| lady." Pee Wee: "Liddle ol' lady who?"  |
+| Knucklehead: "I didn't know you could   |
+\ yodel"                                  /
+ -----------------------------------------
+  \
    \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
-
-     Darth 
-     Vader    
-     koala        
+       __     
+      UooU\.'@@@@@@`.
+      \__/(@@@@@@@@@@)
+           (@@@@@@@@)
+           `YY~~~~YY'
+            ||    ||
 ```
