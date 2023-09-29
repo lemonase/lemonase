@@ -19,20 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 09/28/23
- _________________________________________
-/ Knucklehead: "Knock, knock" Pee Wee:    \
-| "Who's there?" Knucklehead: "Little ol' |
-| lady." Pee Wee: "Liddle ol' lady who?"  |
-| Knucklehead: "I didn't know you could   |
-\ yodel"                                  /
- -----------------------------------------
+Daily cowsay for 09/29/23
+ ________________________________________
+/ Keep emotionally active. Cater to your \
+\ favorite neurosis.                     /
+ ----------------------------------------
   \
    \
-       __     
-      UooU\.'@@@@@@`.
-      \__/(@@@@@@@@@@)
-           (@@@@@@@@)
-           `YY~~~~YY'
-            ||    ||
+       ___  
+     {~._.~}
+      ( Y )
+     ()~*~()   
+     (_)-(_)   
 ```
