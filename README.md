@@ -19,10 +19,12 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 10/02/23
- ___________________________________
-< You will contract a rare disease. >
- -----------------------------------
+Daily cowsay for 10/03/23
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
  \     ____________ 
   \    |__________|
       /           /\
