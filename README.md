@@ -19,25 +19,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 10/09/23
+Daily cowsay for 10/10/23
  _________________________________________
-/ You will be imprisoned for contributing \
-\ your time and skill to a bank robbery.  /
+/ People are beginning to notice you. Try \
+\ dressing before you leave the house.    /
  -----------------------------------------
- \     ____________ 
-  \    |__________|
-      /           /\
-     /           /  \
-    /___________/___/|
-    |          |     |
-    |  ==\ /== |     |
-    |   O   O  | \ \ |
-    |     <    |  \ \|
-   /|          |   \ \
-  / |  \_____/ |   / /
- / /|          |  / /|
-/||\|          | /||\/
-    -------------|   
-        | |    | | 
-       <__/    \__>
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
