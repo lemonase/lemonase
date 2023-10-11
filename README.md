@@ -19,14 +19,27 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 10/10/23
+Daily cowsay for 10/11/23
  _________________________________________
-/ People are beginning to notice you. Try \
-\ dressing before you leave the house.    /
+/ Your aims are high, and you are capable \
+\ of much.                                /
  -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+   \
+    \
+      _____   _________
+     /     \_/         |
+    |                 ||
+    |                 ||
+   |    ###\  /###   | |
+   |     0  \/  0    | |
+  /|                 | |
+ / |        <        |\ \
+| /|                 | | |
+| |     \_______/   |  | |
+| |                 | / /
+/||                 /|||
+   ----------------|
+        | |    | |
+        ***    ***
+       /___\  /___\
 ```
