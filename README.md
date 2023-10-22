@@ -19,14 +19,12 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 10/21/23
- _____________________________________
-/ Nothing so needs reforming as other \
-| people's habits.                    |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+Daily cowsay for 10/22/23
+ ______________________________________
+/ The ripest fruit falls first.        \
+|                                      |
+\ -- William Shakespeare, "Richard II" /
+ --------------------------------------
    \             \
     \             \_
      \             \\
