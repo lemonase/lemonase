@@ -19,19 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 10/24/23
- ___________________________________
-/ Try to get all of your posthumous \
-\ medals in advance.                /
- -----------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Daily cowsay for 10/25/23
+ _________________________________________
+/ Be careful of reading health books, you \
+| might die of a misprint.                |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
+  \
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
