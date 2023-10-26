@@ -19,18 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 10/25/23
+Daily cowsay for 10/26/23
  _________________________________________
-/ Be careful of reading health books, you \
-| might die of a misprint.                |
+/ Zounds! I was never so bethumped with   \
+| words since I first called my brother's |
+| father dad.                             |
 |                                         |
-\ -- Mark Twain                           /
+\ -- William Shakespeare, "Kind John"     /
  -----------------------------------------
-  \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
