@@ -19,17 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 10/27/23
- _______________________________________
-/ You will be held hostage by a radical \
-\ group.                                /
- ---------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 10/28/23
 ```
