@@ -19,18 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 10/29/23
- _________________________________________
-/ You may be infinitely smaller than some \
-| things, but you're infinitely larger    |
-\ than others.                            /
- -----------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 10/30/23
 ```
