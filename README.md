@@ -19,25 +19,40 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/05/23
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
-   \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
-
-     Darth 
-     Vader    
-     koala        
+Daily cowsay for 11/06/23
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #15 A: The Royal        |
+| Canadian Mounted Police. Q: What was   |
+\ the greatest achievement in taxidermy? /
+ ----------------------------------------
+   \             \
+    \             \_
+     \             \\
+      \             \\/\
+       \            _\\/
+        \         /   -\
+         \      /  oo   -\
+          \   /           \
+             |    ---\    -\
+             \--/     \     \
+                       |      -\
+                        \       -\         -------------\    /-\
+                         \        \-------/              ---/    \
+                          \                                  |\   \
+                           |                                 / |  |
+                           \                                |  \  |
+                            |                              /    \ |
+                            |                             /     \ |
+                             \                             \     \|
+                              -              /--------\    |      o
+                               \+   +---------          \   |
+                                |   |                   |   \
+                                |   |                    \   |
+                                |   |                    |   \
+                                |   |                     \   |
+                                 \  |                     |   |
+                                 |  |                      \  \
+                                 |  |                      |   |
+                                 +--+                       ---+
 ```
