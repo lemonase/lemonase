@@ -19,12 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/08/23
- _________________________________________
-< A day for firm decisions!!!!! Or is it? >
- -----------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily cowsay for 11/09/23
+ _______________________________________
+/ Q: Why did the programmer call his    \
+| mother long distance? A: Because that |
+\ was her name.                         /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
