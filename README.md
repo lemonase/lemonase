@@ -19,15 +19,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/09/23
- _______________________________________
-/ Q: Why did the programmer call his    \
-| mother long distance? A: Because that |
-\ was her name.                         /
- ---------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+Daily cowsay for 11/10/23
+ ______________________________________
+/ Q: What does it say on the bottom of \
+| Coke cans in North Dakota? A: Open   |
+\ other end.                           /
+ --------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
