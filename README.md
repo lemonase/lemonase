@@ -19,20 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/10/23
- ______________________________________
-/ Q: What does it say on the bottom of \
-| Coke cans in North Dakota? A: Open   |
-\ other end.                           /
- --------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Daily cowsay for 11/11/23
+ ________________________________________
+/ You will be winged by an anti-aircraft \
+\ battery.                               /
+ ----------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
+                ||     ||
 ```
