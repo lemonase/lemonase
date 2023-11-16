@@ -19,16 +19,13 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/15/23
- _______________________________________
-< Be careful! UGLY strikes 9 out of 10! >
- ---------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+Daily cowsay for 11/16/23
+ _________________________________________
+/ Live in a world of your own, but always \
+\ welcome visitors.                       /
+ -----------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
