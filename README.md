@@ -19,11 +19,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/17/23
- ______________________________________
-/ You have an unusual equipment for    \
-\ success. Be sure to use it properly. /
- --------------------------------------
+Daily cowsay for 11/18/23
+ _______________________________________
+/ There will be big changes for you but \
+\ you will be happy.                    /
+ ---------------------------------------
    \
     \
       _____   _________
