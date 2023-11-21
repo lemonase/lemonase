@@ -19,48 +19,34 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/20/23
+Daily cowsay for 11/21/23
  _________________________________________
-/ The lovely woman-child Kaa was          \
-| mercilessly chained to the cruel post   |
-| of the warrior-chief Beast, with his    |
-| barbarian tribe now stacking wood at    |
-| her nubile feet, when the strong clear  |
-| voice of the poetic and heroic          |
-| Handsomas roared, 'Flick your Bic,      |
-| crisp that chick, and you'll feel my    |
-| steel through your last meal!'          |
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
 |                                         |
-| -- Winning sentence, 1984 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
  -----------------------------------------
-   \             \
-    \             \_
-     \             \\
-      \             \\/\
-       \            _\\/
-        \         /   -\
-         \      /  oo   -\
-          \   /           \
-             |    ---\    -\
-             \--/     \     \
-                       |      -\
-                        \       -\         -------------\    /-\
-                         \        \-------/              ---/    \
-                          \                                  |\   \
-                           |                                 / |  |
-                           \                                |  \  |
-                            |                              /    \ |
-                            |                             /     \ |
-                             \                             \     \|
-                              -              /--------\    |      o
-                               \+   +---------          \   |
-                                |   |                   |   \
-                                |   |                    \   |
-                                |   |                    |   \
-                                |   |                     \   |
-                                 \  |                     |   |
-                                 |  |                      \  \
-                                 |  |                      |   |
-                                 +--+                       ---+
+\                             .       .
+ \                           / `.   .' " 
+  \                  .---.  <    > <    >  .---.
+   \                 |    \  \ - ~ ~ - /  /    |
+         _____          ..-~             ~-..-~
+        |     |   \~~~\.'                    `./~~~/
+       ---------   \__/                        \__/
+      .'  O    \     /               /       \  " 
+     (_____,    `._.'               |         }  \/~~~/
+      `----.          /       }     |        /    \__/
+            `-.      |       /      |       /      `. ,~~|
+                ~-.__|      /_ - ~ ^|      /- _      `..-'   
+                     |     /        |     /     ~-.     `-. _  _  _
+                     |_____|        |_____|         ~ - . _ _ _ _ _>
 ```
