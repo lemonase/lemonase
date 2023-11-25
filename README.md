@@ -19,15 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/24/23
+Daily cowsay for 11/25/23
  _______________________________________
-/ A visit to a strange place will bring \
-\ fresh work.                           /
+/ You will visit the Dung Pits of Glive \
+\ soon.                                 /
  ---------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+  \
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
