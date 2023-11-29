@@ -19,5 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 11/28/23
+Daily cowsay for 11/29/23
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
+        \    ,-^-.
+         \   !oYo!
+          \ /./=\.\______
+               ##        )\/\
+                ||-----w||
+                ||      ||
+
+               Cowth Vader
 ```
