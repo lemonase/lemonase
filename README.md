@@ -19,18 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/06/23
- ___________________________
-/ Too much is just enough.  \
-|                           |
-\ -- Mark Twain, on whiskey /
- ---------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+Daily cowsay for 12/07/23
 ```
