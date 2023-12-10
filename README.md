@@ -19,17 +19,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/09/23
- _________________________________________
-/ The holy passion of Friendship is of so \
-| sweet and steady and loyal and enduring |
-| a nature that it will last through a    |
-| whole lifetime, if not asked to lend    |
-| money.                                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+Daily cowsay for 12/10/23
+ ________________________________________
+/ Think twice before speaking, but don't \
+\ say "think think click click".         /
+ ----------------------------------------
    \        \
     \        \
      \       _\^
