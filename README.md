@@ -19,17 +19,32 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/10/23
- ________________________________________
-/ Think twice before speaking, but don't \
-\ say "think think click click".         /
- ----------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 12/11/23
+ _____________________________________
+/ Remark of Dr. Baldwin's concerning  \
+| upstarts: We don't care to eat      |
+| toadstools that think they are      |
+| truffles.                           |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
+   \
+    \
+      _____   _________
+     /     \_/         |
+    |                 ||
+    |                 ||
+   |    ###\  /###   | |
+   |     0  \/  0    | |
+  /|                 | |
+ / |        <        |\ \
+| /|                 | | |
+| |     \_______/   |  | |
+| |                 | / /
+/||                 /|||
+   ----------------|
+        | |    | |
+        ***    ***
+       /___\  /___\
 ```
