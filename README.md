@@ -19,18 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/15/23
+Daily cowsay for 12/16/23
  _________________________________________
-/ Be careful of reading health books, you \
-| might die of a misprint.                |
-|                                         |
-\ -- Mark Twain                           /
+/ Live in a world of your own, but always \
+\ welcome visitors.                       /
  -----------------------------------------
   \
-   \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
