@@ -19,16 +19,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/19/23
- ___________________________________
-/ Q: Who cuts the grass on Walton's \
-\ Mountain? A: Lawn Boy.            /
- -----------------------------------
-  \
+Daily cowsay for 12/20/23
+ ______________________________________
+/ You will receive a legacy which will \
+\ place you above want.                /
+ --------------------------------------
    \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
 ```
