@@ -19,25 +19,39 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/22/23
- _______________________________________
-/ October 12, the Discovery.            \
-|                                       |
-| It was wonderful to find America, but |
-| it would have been more wonderful to  |
-| miss it.                              |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Daily cowsay for 12/23/23
+ ___________________________
+/ Too much is just enough.  \
+|                           |
+\ -- Mark Twain, on whiskey /
+ ---------------------------
+   \             \
+    \             \_
+     \             \\
+      \             \\/\
+       \            _\\/
+        \         /   -\
+         \      /  oo   -\
+          \   /           \
+             |    ---\    -\
+             \--/     \     \
+                       |      -\
+                        \       -\         -------------\    /-\
+                         \        \-------/              ---/    \
+                          \                                  |\   \
+                           |                                 / |  |
+                           \                                |  \  |
+                            |                              /    \ |
+                            |                             /     \ |
+                             \                             \     \|
+                              -              /--------\    |      o
+                               \+   +---------          \   |
+                                |   |                   |   \
+                                |   |                    \   |
+                                |   |                    |   \
+                                |   |                     \   |
+                                 \  |                     |   |
+                                 |  |                      \  \
+                                 |  |                      |   |
+                                 +--+                       ---+
 ```
