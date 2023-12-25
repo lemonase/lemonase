@@ -19,21 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/24/23
- _______________________________________
-/ Q: What's the difference betweeen USL \
-| and the Graf Zeppelin? A: The Graf    |
-| Zeppelin represented cutting edge     |
-\ technology for its time.              /
- ---------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-
+Daily cowsay for 12/25/23
+ _________________________________________
+/ Perfect day for scrubbing the floor and \
+\ other exciting things.                  /
+ -----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
