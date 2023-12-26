@@ -19,15 +19,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/25/23
- _________________________________________
-/ Perfect day for scrubbing the floor and \
-\ other exciting things.                  /
- -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+Daily cowsay for 12/26/23
+ ________________________________________
+/ Q: Why do mountain climbers rope       \
+| themselves together? A: To prevent the |
+\ sensible ones from going home.         /
+ ----------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
