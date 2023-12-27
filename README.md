@@ -19,14 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/26/23
- ________________________________________
-/ Q: Why do mountain climbers rope       \
-| themselves together? A: To prevent the |
-\ sensible ones from going home.         /
- ----------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily cowsay for 12/27/23
 ```
