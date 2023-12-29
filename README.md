@@ -19,21 +19,21 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/28/23
- _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
-|                                         |
-\ -- Samuel Beckett                       /
- -----------------------------------------
-  \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+Daily cowsay for 12/29/23
+ ______________________________________
+/ Q: How many Marxists does it take to \
+| screw in a light bulb? A: None: The  |
+| light bulb contains the seeds of its |
+\ own revolution.                      /
+ --------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
 ```
