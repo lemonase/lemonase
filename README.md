@@ -19,21 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/29/23
+Daily cowsay for 12/30/23
  ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
+/ Q: What does it say on the bottom of \
+| Coke cans in North Dakota? A: Open   |
+\ other end.                           /
  --------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
+        \    ,-^-.
+         \   !oYo!
+          \ /./=\.\______
+               ##        )\/\
+                ||-----w||
+                ||      ||
 
+               Cowth Vader
 ```
