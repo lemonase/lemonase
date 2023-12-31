@@ -19,18 +19,13 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/30/23
- ______________________________________
-/ Q: What does it say on the bottom of \
-| Coke cans in North Dakota? A: Open   |
-\ other end.                           /
- --------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+Daily cowsay for 12/31/23
+ ________________________________________
+/ Beauty and harmony are as necessary to \
+\ you as the very breath of life.        /
+ ----------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
