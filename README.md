@@ -19,13 +19,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 12/31/23
- ________________________________________
-/ Beauty and harmony are as necessary to \
-\ you as the very breath of life.        /
- ----------------------------------------
- \
-  \
-   \ >()_
-      (__)__ _
+Daily cowsay for 01/01/24
+ _______________________________________
+/ Communicate! It can't make things any \
+\ worse.                                /
+ ---------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
