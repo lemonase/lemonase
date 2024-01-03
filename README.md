@@ -19,17 +19,25 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/02/24
- _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+Daily cowsay for 01/03/24
+ ________________________________________
+/ Increased knowledge will help you now. \
+\ Have mate's phone bugged.              /
+ ----------------------------------------
+ \     ____________ 
+  \    |__________|
+      /           /\
+     /           /  \
+    /___________/___/|
+    |          |     |
+    |  ==\ /== |     |
+    |   O   O  | \ \ |
+    |     <    |  \ \|
+   /|          |   \ \
+  / |  \_____/ |   / /
+ / /|          |  / /|
+/||\|          | /||\/
+    -------------|   
+        | |    | | 
+       <__/    \__>
 ```
