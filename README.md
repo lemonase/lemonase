@@ -19,16 +19,18 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/08/24
- ____________________________________
-/ You will gain money by a fattening \
-\ action.                            /
- ------------------------------------
-  \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+Daily cowsay for 01/09/24
+ _____________________________________
+/ As to the Adjective: when in doubt, \
+| strike it out.                      |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
