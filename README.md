@@ -19,26 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/12/24
- _________________________________________
-/ Persons attempting to find a motive in  \
-| this narrative will be prosecuted;      |
-| persons attempting to find a moral in   |
-| it will be banished; persons attempting |
-| to find a plot in it will be shot. By   |
-| Order of the Author                     |
-|                                         |
-| -- Mark Twain, "The Adventures of       |
-\ Huckleberry Finn"                       /
- -----------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-
+Daily cowsay for 01/13/24
+ _______________________________________
+/ You are destined to become the        \
+| commandant of the fighting men of the |
+\ department of transportation.         /
+ ---------------------------------------
+  \
+   \   \_\_    _/_/
+    \      \__/
+           (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 ```
