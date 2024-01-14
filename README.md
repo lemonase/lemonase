@@ -19,17 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/13/24
- _______________________________________
-/ You are destined to become the        \
-| commandant of the fighting men of the |
-\ department of transportation.         /
- ---------------------------------------
-  \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+Daily cowsay for 01/14/24
+ _____________________________________
+/ Future looks spotty. You will spill \
+\ soup in late evening.               /
+ -------------------------------------
+        \    ,-^-.
+         \   !oYo!
+          \ /./=\.\______
+               ##        )\/\
+                ||-----w||
+                ||      ||
+
+               Cowth Vader
 ```
