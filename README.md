@@ -19,17 +19,36 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/14/24
+Daily cowsay for 01/15/24
  _____________________________________
-/ Future looks spotty. You will spill \
-\ soup in late evening.               /
+/ You never know how many friends you \
+| have until you rent a house on the  |
+\ beach.                              /
  -------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+       \          /\/\
+        \         \/\/
+         \        /   -\
+          \     /  oo   -\
+           \  /           \
+             |    ---\    -\
+             \--/     \     \
+                       |      -\
+                        \       -\         -------------\    /-\
+                         \        \-------/              ---/    \
+                          \                                  |\   \
+                           |                                 / |  |
+                           \                                |  \  |
+                            |                              /    \ |
+                            |                             /     \ |
+                             \                             \     \|
+                              -              /--------\    |      o
+                               \+   +---------          \   |
+                                |   |                   |   \
+                                |   |                    \   |
+                                |   |                    |   \
+                                |   |                     \   |
+                                 \  |                     |   |
+                                 |  |                      \  \
+                                 |  |                      |   |
+                                 +--+                       ---+
 ```
