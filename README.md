@@ -19,19 +19,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/17/24
- ________________________
-< Be different: conform. >
- ------------------------
-   \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
-
-     Darth 
-     Vader    
-     koala        
+Daily cowsay for 01/18/24
+ _________________________________________
+/ An exotic journey in downtown Newark is \
+\ in your future.                         /
+ -----------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
