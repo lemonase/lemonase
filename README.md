@@ -19,15 +19,13 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/18/24
- _________________________________________
-/ An exotic journey in downtown Newark is \
-\ in your future.                         /
- -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
-                ||     ||
+Daily cowsay for 01/19/24
+ _______________________________________
+/ If you sow your wild oats, hope for a \
+\ crop failure.                         /
+ ---------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
