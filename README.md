@@ -19,17 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/25/24
- _________________________________________
-/ While you recently had your problems on \
-| the run, they've regrouped and are      |
-\ making another attack.                  /
- -----------------------------------------
-  \
-   \   \_\_    _/_/
-    \      \__/
-           (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+Daily cowsay for 01/26/24
 ```
