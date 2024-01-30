@@ -19,10 +19,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 01/29/24
- __________________________________
-< Never reveal your best argument. >
- ----------------------------------
+Daily cowsay for 01/30/24
+ ________________________________________
+/ Its name is Public Opinion. It is held \
+| in reverence. It settles everything.   |
+| Some think it is the voice of God.     |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
   \
    \   \_\_    _/_/
     \      \__/
