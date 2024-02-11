@@ -19,18 +19,13 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/10/24
+Daily cowsay for 02/11/24
  _______________________________________
-< You will be awarded some great honor. >
+/ Communicate! It can't make things any \
+\ worse.                                /
  ---------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
