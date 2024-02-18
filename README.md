@@ -19,17 +19,13 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/17/24
- _________________________________________
-/ You have a strong appeal for members of \
-\ the opposite sex.                       /
- -----------------------------------------
-  \
-   \
-       __     
-      UooU\.'@@@@@@`.
-      \__/(@@@@@@@@@@)
-           (@@@@@@@@)
-           `YY~~~~YY'
-            ||    ||
+Daily cowsay for 02/18/24
+ __________________________
+< Bridge ahead. Pay troll. >
+ --------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
