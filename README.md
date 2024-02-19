@@ -19,13 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/18/24
- __________________________
-< Bridge ahead. Pay troll. >
- --------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
+Daily cowsay for 02/19/24
+ ________________________________________
+/ You will be Told about it Tomorrow. Go \
+\ Home and Prepare Thyself.              /
+ ----------------------------------------
+   \        \
+    \        \
+     \       _\^
+      \    _- oo\
+           \---- \______
+                 \       )\
+                ||-----||  \
                 ||     ||
 ```
