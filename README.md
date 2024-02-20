@@ -19,17 +19,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 02/19/24
- ________________________________________
-/ You will be Told about it Tomorrow. Go \
-\ Home and Prepare Thyself.              /
- ----------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
+Daily cowsay for 02/20/24
+ _____________________________________
+/ You never know how many friends you \
+| have until you rent a house on the  |
+\ beach.                              /
+ -------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
                 ||     ||
 ```
