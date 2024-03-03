@@ -19,18 +19,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/02/24
- ______________________________________
-/ Q: How can you tell when a Burroughs \
-| salesman is lying? A: When his lips  |
-\ move.                                /
- --------------------------------------
-   \        \
-    \        \
-     \       _\^
-      \    _- oo\
-           \---- \______
-                 \       )\
-                ||-----||  \
-                ||     ||
+Daily cowsay for 03/03/24
+ _____________________________________
+/ Good news from afar can bring you a \
+\ welcome visitor.                    /
+ -------------------------------------
+  \
+   \
+       __     
+      UooU\.'@@@@@@`.
+      \__/(@@@@@@@@@@)
+           (@@@@@@@@)
+           `YY~~~~YY'
+            ||    ||
 ```
