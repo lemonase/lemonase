@@ -19,17 +19,5 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay for 03/03/24
- _____________________________________
-/ Good news from afar can bring you a \
-\ welcome visitor.                    /
- -------------------------------------
-  \
-   \
-       __     
-      UooU\.'@@@@@@`.
-      \__/(@@@@@@@@@@)
-           (@@@@@@@@)
-           `YY~~~~YY'
-            ||    ||
+Daily cowsay for 03/04/24
 ```
