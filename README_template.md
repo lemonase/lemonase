@@ -14,7 +14,6 @@
 ## Outside of GitHub, find me...
 
 - [My Blog](https://madjam.dev/) ✏️
-- [OMG.lol](https://jam.omg.lol/)
 
 ## Your Daily `fortune | cowsay`
 
