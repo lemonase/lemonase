@@ -11,7 +11,8 @@ REPO_DIR="$(dirname -- $0)"
 
 # sample only current cowfiles
 COW_FILES="$(cowsay -l | sed '1d' | xargs)"
-CUR_COWFILE=${COW_FILES[ $RANDOM % ${#COW_FILES[@]} ]}
+read -a COW_FILE_ARR <<< "$COW_FILES"
+CUR_COWFILE=${COW_FILE_ARR[ $RANDOM % ${#COW_FILE_ARR[@]} ]}
 
 echo '```txt' > $DAILY_COWSAY
 echo "Daily cowsay ($CUR_COWFILE) for $(date +'%D')" >> $DAILY_COWSAY
