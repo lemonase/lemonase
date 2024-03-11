@@ -18,15 +18,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Your daily fortune from "koala" for 03/11/24
- _______________________________
-< Keep it short for pithy sake. >
- -------------------------------
-  \
-   \
-       ___  
-     {~._.~}
-      ( Y )
-     ()~*~()   
-     (_)-(_)   
+Today is 03/11/24. Here is your daily fortune from "pony-smaller".
+ ______________________________________
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
+|                                      |
+\ -- Dylan Thomas                      /
+ --------------------------------------
+     \      _^^
+      \   _- oo\
+          \----- \______
+                \       )\
+                ||-----|| \
+                ||     ||
 ```
