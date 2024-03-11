@@ -15,7 +15,8 @@ read -a COW_FILE_ARR <<< "$COW_FILES"
 CUR_COWFILE="${COW_FILE_ARR[ $RANDOM % ${#COW_FILE_ARR[@]} ]}"
 
 echo '```txt' > $DAILY_COWSAY
-echo "Daily cowsay ($CUR_COWFILE) for $(date +'%D')" >> $DAILY_COWSAY
+echo "Today is $(date +'%D').
+Here is your daily fortune from \"$CUR_COWFILE\"." >> $DAILY_COWSAY
 (/usr/games/fortune | /usr/games/cowsay -f $CUR_COWFILE) >> $DAILY_COWSAY
 echo '```' >> $DAILY_COWSAY
 
