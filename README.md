@@ -18,50 +18,42 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Daily cowsay (luke-koala) for 03/11/24
+Your daily fortune from cow calvin for 03/11/24
  _________________________________________
-/ The Bulwer-Lytton fiction contest is    \
-| held ever year at San Jose State Univ.  |
-| by Professor Scott Rice. It is held in  |
-| memory of Edward George Earle           |
-| Bulwer-Lytton (1803-1873), a rather     |
-| prolific and popular (in his time)      |
-| novelist. He is best known today for    |
-| having written "The Last Days of        |
-| Pompeii."                               |
-|                                         |
-| Whenever Snoopy starts typing his novel |
-| from the top of his doghouse, beginning |
-| "It was a dark and stormy night..." he  |
-| is borrowing from Lord Bulwer-Lytton.   |
-| This was the line that opened his       |
-| novel, "Paul Clifford," written in      |
-| 1830. The full line reveals why it is   |
-| so bad:                                 |
-|                                         |
-| It was a dark and stormy night; the     |
-| rain fell in torrents -- except         |
-|                                         |
-| at occasional intervals, when it was    |
-| checked by a violent gust of            |
-|                                         |
-| wind which swept up the streets (for it |
-| is in London that our scene             |
-|                                         |
-| lies), rattling along the housetops,    |
-| and fiercely agitating the scanty       |
-|                                         |
-| flame of the lamps that struggled       |
-\ against the darkness.                   /
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
  -----------------------------------------
-  \
-   \          .
-       ___   //
-     {~._.~}// 
-      ( Y )K/  
-     ()~*~()   
-     (_)-(_)   
-     Luke    
-     Skywalker
-     koala   
+ \                   .,
+   \         .      .TR   d'
+     \      k,l    .R.b  .t .Je
+       \   .P q.   a|.b .f .Z%
+           .b .h  .E` # J: 2`     .
+      .,.a .E  ,L.M'  ?:b `| ..J9!`.,
+       q,.h.M`   `..,   ..,""` ..2"`
+       .M, J8`   `:       `   3;
+   .    Jk              ...,   `^7"90c.
+    j,  ,!     .7"'`j,.|   .n.   ...
+   j, 7'     .r`     4:      L   `...
+  ..,m.      J`    ..,|..    J`  7TWi
+  ..JJ,.:    %    oo      ,. ....,
+    .,E      3     7`g.M:    P  41
+   JT7"'      O.   .J,;     ``  V"7N.
+   G.           ""Q+  .Zu.,!`      Z`
+   .9.. .         J&..J!       .  ,:
+      7"9a                    JM"!
+         .5J.     ..        ..F`
+            78a..   `    ..2'
+                J9Ksaw0"'
+               .EJ?A...a.
+               q...g...gi
+              .m...qa..,y:
+              .HQFNB&...mm
+               ,Z|,m.a.,dp
+            .,?f` ,E?:"^7b
+            `A| . .F^^7'^4,
+             2.MMMMMMMMMMMQzna,
+         ...f"A.JdT     J:    Jp,
+          `JNa..........A....af`
+               `^^^^^'`
 ```
