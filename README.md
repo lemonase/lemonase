@@ -18,12 +18,11 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 03/13/24.
+Today is 03/14/24.
 Here is your daily fortune from "kosh".
- ________________________________
-/ Your business will assume vast \
-\ proportions.                   /
- --------------------------------
+ ___________________________________
+< You will triumph over your enemy. >
+ -----------------------------------
     \
      \
       \
