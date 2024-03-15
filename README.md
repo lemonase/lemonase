@@ -18,23 +18,14 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 03/14/24.
-Here is your daily fortune from "kosh".
- ___________________________________
-< You will triumph over your enemy. >
- -----------------------------------
-    \
-     \
-      \
-  ___       _____     ___
- /   \     /    /|   /   \
-|     |   /    / |  |     |
-|     |  /____/  |  |     |     
-|     |  |    |  |  |     |
-|     |  | {} | /   |     |
-|     |  |____|/    |     |
-|     |    |==|     |     |
-|      \___________/      |
-|                         |
-|                         |
+Today is 03/15/24.
+Here is your daily fortune from "www".
+ _________________
+< You look tired. >
+ -----------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||--WWW |
+                ||     ||
 ```
