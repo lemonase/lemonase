@@ -18,37 +18,45 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 03/17/24.
-Here is your daily fortune from "ghostbusters".
+Today is 03/18/24.
+Here is your daily fortune from "tux".
  _________________________________________
-/ Swerve me? The path to my fixed purpose \
-| is laid with iron rails, whereon my     |
-| soul is grooved to run. Over unsounded  |
-| gorges, through the rifled hearts of    |
-| mountains, under torrents' beds,        |
-| unerringly I rush!                      |
+/ Courage is resistance to fear, mastery  \
+| of fear--not absence of fear. Except a  |
+| creature be part coward it is not a     |
+| compliment to say it is brave; it is    |
+| merely a loose misapplication of the    |
+| word. Consider the flea!--incomparably  |
+| the bravest of all the creatures of     |
+| God, if ignorance of fear were courage. |
+| Whether you are asleep or awake he will |
+| attack you, caring nothing for the fact |
+| that in bulk and strength you are to    |
+| him as are the massed armies of the     |
+| earth to a sucking child; he lives both |
+| day and night and all days and nights   |
+| in the very lap of peril and the        |
+| immediate presence of death, and yet is |
+| no more afraid than is the man who      |
+| walks the streets of a city that was    |
+| threatened by an earthquake ten         |
+| centuries before. When we speak of      |
+| Clive, Nelson, and Putnam as men who    |
+| "didn't know what fear was," we ought   |
+| always to add the flea--and put him at  |
+| the head of the procession.             |
 |                                         |
-\ -- Captain Ahab, "Moby Dick"            /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
-          \
-           \
-            \          __---__
-                    _-       /--______
-               __--( /     \ )XXXXXXXXXXX\v.
-             .-XXX(   O   O  )XXXXXXXXXXXXXXX-
-            /XXX(       U     )        XXXXXXX\
-          /XXXXX(              )--_  XXXXXXXXXXX\
-         /XXXXX/ (      O     )   XXXXXX   \XXXXX\
-         XXXXX/   /            XXXXXX   \__ \XXXXX
-         XXXXXX__/          XXXXXX         \__---->
- ---___  XXX__/          XXXXXX      \__         /
-   \-  --__/   ___/\  XXXXXX            /  ___--/=
-    \-\    ___/    XXXXXX              '--- XXXXXX
-       \-\/XXX\ XXXXXX                      /XXXXX
-         \XXXXXXXXX   \                    /XXXXX/
-          \XXXXXX      >                 _/XXXXX/
-            \XXXXX--__/              __-- XXXX/
-             -XXXXXXXX---------------  XXXXXX-
-                \XXXXXXXXXXXXXXXXXXXXXXXXXX/
-                  ""VXXXXXXXXXXXXXXXXXXV""
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
 ```
