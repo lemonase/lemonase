@@ -18,23 +18,25 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 03/19/24.
-Here is your daily fortune from "elephant".
- ______________________________________
-/ Tell the truth or trump--but get the \
-| trick.                               |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Today is 03/20/24.
+Here is your daily fortune from "moofasa".
+ _________________________________________
+/ Gratitude and treachery are merely the  \
+| two extremities of the same procession. |
+| You have seen all of it that is worth   |
+| staying for when the band and the gaudy |
+| officials have gone by.                 |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
+       \    ____
+        \  /    \
+          | ^__^ |
+          | (oo) |______
+          | (__) |      )\/\
+           \____/|----w |
+                ||     ||
+
+                 Moofasa
 ```
