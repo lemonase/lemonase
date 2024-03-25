@@ -18,19 +18,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 03/24/24.
-Here is your daily fortune from "moofasa".
- _____________________________________
-/ You have a deep appreciation of the \
-\ arts and music.                     /
- -------------------------------------
-       \    ____
-        \  /    \
-          | ^__^ |
-          | (oo) |______
-          | (__) |      )\/\
-           \____/|----w |
-                ||     ||
-
-                 Moofasa
+Today is 03/25/24.
+Here is your daily fortune from "koala".
+ _________________________________________
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
+ -----------------------------------------
+  \
+   \
+       ___  
+     {~._.~}
+      ( Y )
+     ()~*~()   
+     (_)-(_)   
 ```
