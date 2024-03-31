@@ -18,20 +18,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 03/30/24.
-Here is your daily fortune from "flaming-sheep".
- _______________________________________
-/ You will be aided greatly by a person \
-\ whom you thought to be unimportant.   /
- ---------------------------------------
-  \            .    .     .   
-   \      .  . .     `  ,     
-    \    .; .  : .' :  :  : . 
-     \   i..`: i` i.i.,i  i . 
-      \   `,--.|i |i|ii|ii|i: 
-           UooU\.'@@@@@@`.||' 
-           \__/(@@@@@@@@@@)'  
-                (@@@@@@@@)    
-                `YY~~~~YY'    
-                 ||    ||     
+Today is 03/31/24.
+Here is your daily fortune from "moofasa".
+ _____________________________________
+/ You never know how many friends you \
+| have until you rent a house on the  |
+\ beach.                              /
+ -------------------------------------
+       \    ____
+        \  /    \
+          | ^__^ |
+          | (oo) |______
+          | (__) |      )\/\
+           \____/|----w |
+                ||     ||
+
+                 Moofasa
 ```
