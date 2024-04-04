@@ -18,18 +18,22 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/03/24.
-Here is your daily fortune from "www".
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||--WWW |
-                ||     ||
+Today is 04/04/24.
+Here is your daily fortune from "cower".
+ _________________________________________
+/ Q: What do you call a principal female  \
+| opera singer whose high C               |
+|                                         |
+| is lower than those of other principal  |
+\ female opera singers? A: A deep C diva. /
+ -----------------------------------------
+     \
+      \
+        ,__, |    | 
+        (oo)\|    |___
+        (__)\|    |   )\_
+             |    |_w |  \
+             |    |  ||   *
+
+             Cower....
 ```
