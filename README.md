@@ -18,28 +18,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/15/24.
-Here is your daily fortune from "cheese".
- ___________________________________
-/ Be security conscious -- National \
-\ defense is at stake.              /
- -----------------------------------
-   \
-    \
-      _____   _________
-     /     \_/         |
-    |                 ||
-    |                 ||
-   |    ###\  /###   | |
-   |     0  \/  0    | |
-  /|                 | |
- / |        <        |\ \
-| /|                 | | |
-| |     \_______/   |  | |
-| |                 | / /
-/||                 /|||
-   ----------------|
-        | |    | |
-        ***    ***
-       /___\  /___\
+Today is 04/16/24.
+Here is your daily fortune from "bud-frogs".
+ _________________________________________
+/ You will be recognized and honored as a \
+\ community leader.                       /
+ -----------------------------------------
+     \
+      \
+          oO)-.                       .-(Oo
+         /__  _\                     /_  __\
+         \  \(  |     ()~()         |  )/  /
+          \__|\ |    (-___-)        | /|__/
+          '  '--'    ==`-'==        '--'  '
 ```
