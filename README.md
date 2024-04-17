@@ -18,17 +18,21 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/16/24.
-Here is your daily fortune from "bud-frogs".
- _________________________________________
-/ You will be recognized and honored as a \
-\ community leader.                       /
- -----------------------------------------
-     \
-      \
-          oO)-.                       .-(Oo
-         /__  _\                     /_  __\
-         \  \(  |     ()~()         |  )/  /
-          \__|\ |    (-___-)        | /|__/
-          '  '--'    ==`-'==        '--'  '
+Today is 04/17/24.
+Here is your daily fortune from "elephant".
+ ______________________________________
+/ Q: What does it say on the bottom of \
+| Coke cans in North Dakota? A: Open   |
+\ other end.                           /
+ --------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    O O    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```
