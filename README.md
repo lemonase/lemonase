@@ -18,21 +18,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/17/24.
-Here is your daily fortune from "elephant".
- ______________________________________
-/ Q: What does it say on the bottom of \
-| Coke cans in North Dakota? A: Open   |
-\ other end.                           /
- --------------------------------------
- \     /\  ___  /\
-  \   // \/   \/ \\
-     ((    O O    ))
-      \\ /     \ //
-       \/  | |  \/ 
-        |  | |  |  
-        |  | |  |  
-        |   o   |  
-        | |   | |  
-        |m|   |m|  
+Today is 04/18/24.
+Here is your daily fortune from "hellokitty".
+ _____________________________
+< Give him an evasive answer. >
+ -----------------------------
+  \
+   \
+      /\_)o<
+     |      \
+     | O . O|
+      \_____/
 ```
