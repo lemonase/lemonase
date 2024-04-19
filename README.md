@@ -18,15 +18,38 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/18/24.
-Here is your daily fortune from "hellokitty".
- _____________________________
-< Give him an evasive answer. >
- -----------------------------
-  \
-   \
-      /\_)o<
-     |      \
-     | O . O|
-      \_____/
+Today is 04/19/24.
+Here is your daily fortune from "pony".
+ ____________________________________
+/ A horse! A horse! My kingdom for a \
+| horse!                             |
+|                                    |
+\ -- Wm. Shakespeare, "Richard III"  /
+ ------------------------------------
+       \          /\/\
+        \         \/\/
+         \        /   -\
+          \     /  oo   -\
+           \  /           \
+             |    ---\    -\
+             \--/     \     \
+                       |      -\
+                        \       -\         -------------\    /-\
+                         \        \-------/              ---/    \
+                          \                                  |\   \
+                           |                                 / |  |
+                           \                                |  \  |
+                            |                              /    \ |
+                            |                             /     \ |
+                             \                             \     \|
+                              -              /--------\    |      o
+                               \+   +---------          \   |
+                                |   |                   |   \
+                                |   |                    \   |
+                                |   |                    |   \
+                                |   |                     \   |
+                                 \  |                     |   |
+                                 |  |                      \  \
+                                 |  |                      |   |
+                                 +--+                       ---+
 ```
