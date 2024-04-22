@@ -18,19 +18,25 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/21/24.
-Here is your daily fortune from "skeleton".
- _______________________________________
-/ You definitely intend to start living \
-\ sometime soon.                        /
- ---------------------------------------
-          \      (__)      
-           \     /oo|  
-            \   (_"_)*+++++++++*
-                   //I#\\\\\\\\I\
-                   I[I|I|||||I I `
-                   I`I'///'' I I
-                   I I       I I
-                   ~ ~       ~ ~
-                     Scowleton
+Today is 04/22/24.
+Here is your daily fortune from "tux".
+ _________________________________
+/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
+|                                 |
+| FEAR! FIRE! FOES!               |
+|                                 |
+| AWAKE! AWAKE!                   |
+|                                 |
+\ -- J. R. R. Tolkien             /
+ ---------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
 ```
