@@ -18,25 +18,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/22/24.
-Here is your daily fortune from "tux".
- _________________________________
-/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
-|                                 |
-| FEAR! FIRE! FOES!               |
-|                                 |
-| AWAKE! AWAKE!                   |
-|                                 |
-\ -- J. R. R. Tolkien             /
- ---------------------------------
+Today is 04/23/24.
+Here is your daily fortune from "vader-koala".
+ _________________________________________
+< Do something unusual today. Pay a bill. >
+ -----------------------------------------
    \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
+    \        .
+     .---.  //
+    Y|o o|Y// 
+   /_(i=i)K/ 
+   ~()~*~()~  
+    (_)-(_)   
 
+     Darth 
+     Vader    
+     koala        
 ```
