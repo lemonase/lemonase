@@ -18,20 +18,28 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/23/24.
-Here is your daily fortune from "vader-koala".
- _________________________________________
-< Do something unusual today. Pay a bill. >
- -----------------------------------------
+Today is 04/24/24.
+Here is your daily fortune from "cheese".
+ _____________________________________
+/ You have the power to influence all \
+\ with whom you come in contact.      /
+ -------------------------------------
    \
-    \        .
-     .---.  //
-    Y|o o|Y// 
-   /_(i=i)K/ 
-   ~()~*~()~  
-    (_)-(_)   
-
-     Darth 
-     Vader    
-     koala        
+    \
+      _____   _________
+     /     \_/         |
+    |                 ||
+    |                 ||
+   |    ###\  /###   | |
+   |     0  \/  0    | |
+  /|                 | |
+ / |        <        |\ \
+| /|                 | | |
+| |     \_______/   |  | |
+| |                 | / /
+/||                 /|||
+   ----------------|
+        | |    | |
+        ***    ***
+       /___\  /___\
 ```
