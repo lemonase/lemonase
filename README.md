@@ -18,28 +18,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/24/24.
-Here is your daily fortune from "cheese".
- _____________________________________
-/ You have the power to influence all \
-\ with whom you come in contact.      /
- -------------------------------------
-   \
-    \
-      _____   _________
-     /     \_/         |
-    |                 ||
-    |                 ||
-   |    ###\  /###   | |
-   |     0  \/  0    | |
-  /|                 | |
- / |        <        |\ \
-| /|                 | | |
-| |     \_______/   |  | |
-| |                 | / /
-/||                 /|||
-   ----------------|
-        | |    | |
-        ***    ***
-       /___\  /___\
+Today is 04/25/24.
+Here is your daily fortune from "moofasa".
+ ________________________________________
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
+ ----------------------------------------
+       \    ____
+        \  /    \
+          | ^__^ |
+          | (oo) |______
+          | (__) |      )\/\
+           \____/|----w |
+                ||     ||
+
+                 Moofasa
 ```
