@@ -18,19 +18,21 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/25/24.
-Here is your daily fortune from "moofasa".
- ________________________________________
-/ You prefer the company of the opposite \
-\ sex, but are well liked by your own.   /
- ----------------------------------------
-       \    ____
-        \  /    \
-          | ^__^ |
-          | (oo) |______
-          | (__) |      )\/\
-           \____/|----w |
-                ||     ||
-
-                 Moofasa
+Today is 04/26/24.
+Here is your daily fortune from "snowman".
+ _________________________________________
+/ Q: What lies on the bottom of the ocean \
+\ and twitches? A: A nervous wreck.       /
+ -----------------------------------------
+   \
+ ___###
+   /oo\ |||
+   \  / \|/
+   /""\  I
+()|    |(I)
+   \  /  I
+  /""""\ I
+ |      |I
+ |      |I
+  \____/ I
 ```
