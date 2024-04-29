@@ -18,25 +18,26 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/28/24.
-Here is your daily fortune from "dragon-and-cow".
- ___________________________
-< You will wish you hadn't. >
- ---------------------------
-                       \                    ^    /^
-                        \                  / \  // \
-                         \   |\___/|      /   \//  .\
-                          \  /O  O  \__  /    //  | \ \           *----*
-                            /     /  \/_/    //   |  \  \          \   |
-                            @___@`    \/_   //    |   \   \         \/\ \
-                           0/0/|       \/_ //     |    \    \         \  \
-                       0/0/0/0/|        \///      |     \     \       |  |
-                    0/0/0/0/0/_|_ /   (  //       |      \     _\     |  /
-                 0/0/0/0/0/0/`/,_ _ _/  ) ; -.    |    _ _\.-~       /   /
-                             ,-}        _      *-.|.-~-.           .~    ~
-            \     \__/        `/\      /                 ~-. _ .-~      /
-             \____(oo)           *.   }            {                   /
-             (    (--)          .----~-.\        \-`                 .~
-             //__\\  \__ Ack!   ///.----..<        \             _ -~
-            //    \\               ///-._ _ _ _ _ _ _{^ - - - - ~
+Today is 04/29/24.
+Here is your daily fortune from "bunny".
+ _________________________________________
+/ Many enraged psychiatrists are inciting \
+| a weary butcher. The butcher is weary   |
+| and tired because he has cut meat and   |
+| steak and lamb for hours and weeks. He  |
+| does not desire to chant about anything |
+| with raving psychiatrists, but he sings |
+| about his gingivectomist, he dreams     |
+| about a single cosmologist, he thinks   |
+| about his dog. The dog is named         |
+| Herbert.                                |
+|                                         |
+| -- Racter, "The Policeman's Beard is    |
+\ Half-Constructed"                       /
+ -----------------------------------------
+  \
+   \   \
+        \ /\
+        ( )
+      .( o ).
 ```
