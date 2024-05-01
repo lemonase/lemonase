@@ -18,18 +18,17 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 04/30/24.
-Here is your daily fortune from "vader".
- _________________________________________
-/ You will be reincarnated as a toad; and \
-\ you will be much happier.               /
- -----------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+Today is 05/01/24.
+Here is your daily fortune from "duck".
+ _____________________________________
+/ The naked truth of it is, I have no \
+| shirt.                              |
+|                                     |
+| -- William Shakespeare, "Love's     |
+\ Labour's Lost"                      /
+ -------------------------------------
+ \
+  \
+   \ >()_
+      (__)__ _
 ```
