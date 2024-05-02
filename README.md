@@ -18,17 +18,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 05/01/24.
-Here is your daily fortune from "duck".
- _____________________________________
-/ The naked truth of it is, I have no \
-| shirt.                              |
-|                                     |
-| -- William Shakespeare, "Love's     |
-\ Labour's Lost"                      /
- -------------------------------------
- \
+Today is 05/02/24.
+Here is your daily fortune from "sheep".
+ ______________________________________
+/ Q: How many Martians does it take to \
+| screw in a light bulb? A: One and a  |
+\ half.                                /
+ --------------------------------------
   \
-   \ >()_
-      (__)__ _
+   \
+       __     
+      UooU\.'@@@@@@`.
+      \__/(@@@@@@@@@@)
+           (@@@@@@@@)
+           `YY~~~~YY'
+            ||    ||
 ```
