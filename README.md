@@ -18,33 +18,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 05/04/24.
-Here is your daily fortune from "ren".
- ______________________________________
-/ April 1                              \
-|                                      |
-| This is the day upon which we are    |
-| reminded of what we are on the other |
-| three hundred and sixty-four.        |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
-   \
-    \
-    ____  
-   /# /_\_
-  |  |/o\o\
-  |  \\_/_/
- / |_   |  
-|  ||\_ ~| 
-|  ||| \/  
-|  |||_    
- \//  |    
-  ||  |    
-  ||_  \   
-  \_|  o|  
-  /\___/   
- /  ||||__ 
-    (___)_)
+Today is 05/05/24.
+Here is your daily fortune from "apt".
+ __________________________________
+/ Knock, knock!                    \
+|                                  |
+| Who's there? Sam and Janet.      |
+|                                  |
+| Sam and Janet who? Sam and Janet |
+\ Evening...                       /
+ ----------------------------------
+       \ (__)
+         (oo)
+   /------\/
+  / |    ||
+ *  /\---/\
+    ~~   ~~
 ```
