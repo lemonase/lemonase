@@ -18,20 +18,20 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 05/05/24.
-Here is your daily fortune from "apt".
- __________________________________
-/ Knock, knock!                    \
-|                                  |
-| Who's there? Sam and Janet.      |
-|                                  |
-| Sam and Janet who? Sam and Janet |
-\ Evening...                       /
- ----------------------------------
-       \ (__)
-         (oo)
-   /------\/
-  / |    ||
- *  /\---/\
-    ~~   ~~
+Today is 05/06/24.
+Here is your daily fortune from "luke-koala".
+ _______________________________________
+/ You will feel hungry again in another \
+\ hour.                                 /
+ ---------------------------------------
+  \
+   \          .
+       ___   //
+     {~._.~}// 
+      ( Y )K/  
+     ()~*~()   
+     (_)-(_)   
+     Luke    
+     Skywalker
+     koala   
 ```
