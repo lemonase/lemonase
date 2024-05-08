@@ -18,29 +18,19 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 05/07/24.
-Here is your daily fortune from "ren".
- _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
- -----------------------------------------
-   \
-    \
-    ____  
-   /# /_\_
-  |  |/o\o\
-  |  \\_/_/
- / |_   |  
-|  ||\_ ~| 
-|  ||| \/  
-|  |||_    
- \//  |    
-  ||  |    
-  ||_  \   
-  \_|  o|  
-  /\___/   
- /  ||||__ 
-    (___)_)
+Today is 05/08/24.
+Here is your daily fortune from "luke-koala".
+ ________________________________________
+< Avoid gunfire in the bathroom tonight. >
+ ----------------------------------------
+  \
+   \          .
+       ___   //
+     {~._.~}// 
+      ( Y )K/  
+     ()~*~()   
+     (_)-(_)   
+     Luke    
+     Skywalker
+     koala   
 ```
