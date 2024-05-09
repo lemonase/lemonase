@@ -18,19 +18,16 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 05/08/24.
-Here is your daily fortune from "luke-koala".
- ________________________________________
-< Avoid gunfire in the bathroom tonight. >
- ----------------------------------------
+Today is 05/09/24.
+Here is your daily fortune from "koala".
+ ___________________________
+< You will wish you hadn't. >
+ ---------------------------
   \
-   \          .
-       ___   //
-     {~._.~}// 
-      ( Y )K/  
+   \
+       ___  
+     {~._.~}
+      ( Y )
      ()~*~()   
      (_)-(_)   
-     Luke    
-     Skywalker
-     koala   
 ```
