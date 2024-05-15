@@ -18,20 +18,15 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 05/14/24.
-Here is your daily fortune from "flaming-sheep".
- ____________________________________
-/ Excellent time to become a missing \
-\ person.                            /
- ------------------------------------
-  \            .    .     .   
-   \      .  . .     `  ,     
-    \    .; .  : .' :  :  : . 
-     \   i..`: i` i.i.,i  i . 
-      \   `,--.|i |i|ii|ii|i: 
-           UooU\.'@@@@@@`.||' 
-           \__/(@@@@@@@@@@)'  
-                (@@@@@@@@)    
-                `YY~~~~YY'    
-                 ||    ||     
+Today is 05/15/24.
+Here is your daily fortune from "apt".
+ ____________________________
+< You will soon forget this. >
+ ----------------------------
+       \ (__)
+         (oo)
+   /------\/
+  / |    ||
+ *  /\---/\
+    ~~   ~~
 ```
