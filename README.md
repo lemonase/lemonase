@@ -18,18 +18,23 @@
 ## Your Daily `fortune | cowsay`
 
 ```txt
-Today is 05/18/24.
-Here is your daily fortune from "skeleton".
- _________________
-< You look tired. >
- -----------------
-          \      (__)      
-           \     /oo|  
-            \   (_"_)*+++++++++*
-                   //I#\\\\\\\\I\
-                   I[I|I|||||I I `
-                   I`I'///'' I I
-                   I I       I I
-                   ~ ~       ~ ~
-                     Scowleton
+Today is 05/19/24.
+Here is your daily fortune from "snowman".
+ __________________________________
+/ Wagner's music is better than it \
+| sounds.                          |
+|                                  |
+\ -- Mark Twain                    /
+ ----------------------------------
+   \
+ ___###
+   /oo\ |||
+   \  / \|/
+   /""\  I
+()|    |(I)
+   \  /  I
+  /""""\ I
+ |      |I
+ |      |I
+  \____/ I
 ```
