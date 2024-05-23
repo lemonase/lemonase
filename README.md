@@ -2,14 +2,16 @@
 
 My name is James
 
-I code some and I write some
+I write sometimes.
 
 - [Blog](https://madjam.dev/)
 
 ---
 
-Cowsay projects
+And I code sometimes too.
 
-- [Daily Fortune+Cowsay](http://cowsay.today)
-- [Random Cowsay](http://cows.rest/cowsay?r)
+Misc. Projects:
+
+- [Random Daily Fortune + Cowsay](http://cowsay.today)
+- [Random Cowsay API](http://cows.rest/cowsay?r)
 
