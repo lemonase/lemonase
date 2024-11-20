@@ -1,17 +1,7 @@
-# Hello World (Github) 👋🌍
+The cycle:
 
-My name is James
+1. Break Stuff
+1. Write Stuff
+1. Repeat
 
-I write sometimes.
-
-- [Blog](https://madjam.dev/)
-
----
-
-And I code sometimes too.
-
-Misc. Projects:
-
-- [Random Daily Fortune + Cowsay](http://cowsay.today)
-- [Random Cowsay API](http://cows.rest/cowsay?r)
-
+[My Blog](https://madjam.dev/)
