@@ -1,7 +1,3 @@
-The cycle:
-
-1. Break Stuff
-1. Write Stuff
-1. Repeat
+Git with the program
 
 [My Blog](https://madjam.dev/)
