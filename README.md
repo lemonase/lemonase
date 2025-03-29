@@ -1,3 +1,3 @@
-Git with the program
+Git'r Done!
 
-[My Blog](https://madjam.dev/)
+[Blog](https://jamiam.dev/)
